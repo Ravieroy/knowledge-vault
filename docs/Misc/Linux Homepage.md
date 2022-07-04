@@ -1,5 +1,10 @@
 # Linux Homepage
+
 The Linux related stuffs are in the folder `LinuxStuffs`, and a curated link to those notes are given in table below. Any link can be clicked to view the note and links therein. Several notes are incomplete as I am still writing them. 
+
+Graph View from my Obsidian Vault
+
+![[LinuxStuffs_Graph_view.png]]
 
 | Applications                      | Basics                                | Utilities                          | Misc                                  |     |
 | --------------------------------- | ------------------------------------- | ---------------------------------- | ------------------------------------- | --- |
