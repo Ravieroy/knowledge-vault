@@ -1,10 +1,5 @@
 # Angle resolved photoemission spectroscopy(ARPES)
-```toc
-title: Table of Contents
-style: number
-varied_style: true
-```
-
+---
 ## Basic Outline 
 ARPES is an experimental method based on the photoelectric effect. Electrons in solids can absorb incident photons with energy larger than the work function of the host material, typically a few electronvolts, and escape into the vacuum. These photoemitted electrons, also known as photoelectrons, are collected by an electron analyzer that measures their kinetic energy and momentum. From these measurements, the original band structure is extracted.
 

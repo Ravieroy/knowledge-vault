@@ -1,8 +1,5 @@
-```ad-note
-title: $AV_6Sb_6$ Family
-The family of $AV_6Sb_6$(A=K, Rb, Cs) is a new class of bilayer kagome lattice compounds similar to [[AV3Sb5 family]] with Dirac nodal lines and other interesting properties 
-```
-- Shares [[AV3Sb5 general properties]], like Dirac nodal lines, [[Superconductivity]] under pressure. 
+## $AV_6Sb_6$ Family
+The family of $AV_6Sb_6$(A=K, Rb, Cs) is a new class of bilayer kagome lattice compounds similar to [[AV3Sb5 family]] with Dirac nodal lines and other interesting properties. It shares [[AV3Sb5 general properties]], like Dirac nodal lines, [[Superconductivity]] under pressure. 
 
 ### Structure
 #### Structure Comparison([[AV3Sb5 and AV6Sb6 comparison#Structure]])
@@ -14,6 +11,7 @@ The family of $AV_6Sb_6$(A=K, Rb, Cs) is a new class of bilayer kagome lattice c
  
   ![[Phase_Diagram_CsV6Sb6.png]]
 *Phase Diagram* (RRR : Residual Resistivity Ratio) 
+
 - The T-dependence of the normalized resistance($R/R_{300K}$) show metallic behavior in the entire pressure range with RRR gradually decreases below 15GPa. 
 - Superconducting transition emerges at 21.2 GPa manifested by Resistance drop.
 - $T_c^{90\%}$ is 1.04K
@@ -27,6 +25,6 @@ The family of $AV_6Sb_6$(A=K, Rb, Cs) is a new class of bilayer kagome lattice c
 Related Links:
 1. [[AV6Sb6 DFT]]
 2. [[AV3Sb5 and AV6Sb6 comparison]] 
-3. Original Paper : A new class of bilayer kagome lattice compounds with Dirac nodal lines and pressure-induced superconductivity([Link](https://www.nature.com/articles/s41467-022-30442-0))
+3. Original Paper : A new class of bilayer kagome lattice compounds with Dirac nodal lines and pressure-induced superconductivity ([Link](https://www.nature.com/articles/s41467-022-30442-0))
 
 

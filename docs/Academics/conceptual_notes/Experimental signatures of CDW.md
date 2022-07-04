@@ -2,11 +2,7 @@
 The phenomena of [[CDW]] ordering is usually confirmed experimentally using following experiments or observations. 
 
 Source : [Inna Vishik](https://www.quora.com/How-do-I-confirm-a-Charge-Density-Wave-CDW-phase-experimentally-What-is-the-transport-behaviors-of-CDW-phase/answer/Inna-Vishik)
-```toc
-title: Table of Contents
-style: number
-varied_style: true
-```
+
 ## Transport
 In a new material, the first suspicion of a CDW often comes from an anomaly (specifically, resistivity increasing with decreasing temperature in some temperature range) in the resistivity. This [[Behavior near CDW]] can be a hint to [[CDW]] which can then be well-founded by band structure calculations showing fermiology.  The following figure shows the anomalous behavior of normalized resistivity as a signature of [[CDW in NbSe3]]. [[Resistivity]] starts to increase below the CDW temperature because the transition depletes density of states on part of the Fermi surface, but eventually, metallic resistivity (decreasing with decreasing temperature) resumes because a portion of the Fermi surface stays metallic.
 

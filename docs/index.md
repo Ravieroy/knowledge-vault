@@ -1,21 +1,9 @@
 # Homepage
-The Linux related stuffs are in the folder `LinuxStuffs`, and a curated link to those notes are given in table below. Any link can be clicked to view the note and links therein. Several notes are incomplete as I am still writing them. 
+Linux related stuffs can be found in the folder `LinuxStuffs` and the mildly curated list can be seen at [[Linux Homepage]]. I am research scholar at Indian Institute of Technology, Kharagpur, working on Condensed Matter Physics under Prof. Arghya Taraphder. The notes I have been preparing can be found in `Academics` and a curated list can be found at [[Academic Notes Homepage]]. 
 
-| Applications                      | Basics                                | Utilities                          | Misc                                  |     |
-| --------------------------------- | ------------------------------------- | ---------------------------------- | ------------------------------------- | --- |
-| [[bat]]                           | [[Things to do after Fedora install]] | [[Hide native tab bar in Firefox]] | [[Custom ROM in Mi A2]]               |     |
-| [[lsd]]                           | [[LibreOffice_Install]]               | [[Apple_connect]]                  | [[Ubuntu touch experience]]           |     |
-| [[Vim]]                           | [[oh-my-zsh installation]]            | [[Password feedback in Terminal]]  | [[Flash Ubuntu Touch]]                |     |
-| [[zsh]]                           | [[PPA_Remove]]                        | [[Command line tools]]             | [[Difference between Vim and Neovim]] |     |
-| [[Neovim]]                        | [[Manage user profiles]]              | [[Setting up Flatpak]]             |                                       |     |
-| [[Dolphin installation on GNOME]] | [[Uninstall applications]]            | [[Font spacing bug in Konsole]]    | [[vipw]]                              |     |
-|                                   | [[Fonts installation]]                |                                    | [[visudo]]                                      |     |
+These notes are still to be made and hence a lot of them would empty for now. The graph view in locally in my Obsidian vault looks like this. 
 
-## Incomplete/Empty Notes
-| Column 1     | Column 2                | Column 3         | Column 4                |
-| ------------ | ----------------------- | ---------------- | ----------------------- |
-| [[entr]]     | [[exa]]                 | [[Extraction]]   | [[fd]]                  |
-| [[FOSS]]     | [[fzf]]                 | [[gedit]]        | [[Install Vim plugins]] |
-| [[jump]]     | [[Linux distros]]       | [[lxappearance]] | [[nano]]                |
-| [[nnn]]      | [[Package manager]]     | [[ripgrep]]      | [[Set an alias]]        |
-| [[Terminal]] | [[Useful Vim commands]] |                  |                         | 
+![[Graph_View_Full.png]]
+
+
+

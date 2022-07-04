@@ -1,17 +1,6 @@
-# $AV_3Sb_5$ ARPES
+## $AV_3Sb_5$ ARPES
 ---
-
 Tags: #kagome #ARPES #CDW 
-
----
----
-```toc
-title: Table of Contents
-style: number
-varied_style: true
-```
----
-
 ## ARPES study for KV3Sb5
 Ref.  [Three-dimensional energy gap and origin of charge-density wave in kagome superconductor KV3Sb5 | Communications Materials](https://www.nature.com/articles/s43246-022-00255-1)
 ### Fermi surface

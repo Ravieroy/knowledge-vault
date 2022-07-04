@@ -1,21 +1,13 @@
-```ad-note
-title: Interesting Properties
-- [[Superconductivity]] #unconventional
+## Interesting Properties
+- [[Superconductivity]] 
 - [[CDW]]
 - [[Electron-correlation effects]] 
 - [[Topology]]
 - [[Geometric frustration]]
 - [[AV3Sb5 anomalies]]
-``` 
-```toc
-title: Table of Contents
-style: number
-varied_style: true
-```
-```ad-note
-title: Electronic Properties
-```
- #### Low temperature
+
+### Electronic Properties
+#### Low temperature
  
 ![[AV3Sb5_Prop.png]]
 
@@ -43,7 +35,9 @@ The kink behaviorin the $\rho(T)$ variation around 94K is related to long range 
 6. Charge reversal across this gap. Hallmark of CDW ordering. 
 7. ARPES measurements on [[KV3Sb5]] suggest the importance of structural transition.
 ----
- #### [[Time reversal symmetry]] 
+
+####  [[Time reversal symmetry]]
+  
 1. Symmetry breaking signals was found in the [[CDW]] phases of $AV_3Sb_5$ compounds. 
 2. There are six CDW ordering vectors $Q_{3Q}$ from the STM topographic spectrum.
 3.  However, the intensity of these three pairs of vectors are different in the clean regions for all $AV_3Sb_5$ materials.
@@ -52,6 +46,7 @@ The kink behaviorin the $\rho(T)$ variation around 94K is related to long range 
 
 ![[KV3Sb5_CDW_MF.png]]
 `The highest vector peaks shift their positions under magnetic field applied along c-axis`
+
 6. Onsager reciprocal relation, the response functions of a time-reversal preserving system under +B and -B must relate to each other by a time reversal operator. This non-reciprocal relation under magnetic field breaks the Onsager relation, indicating the [[Time reversal symmetry]] in this non-magnetic kagome system ([[Kagome metal]]).
 7.  Emergence of local MF under $T_{CDF}$ due to [[Time reversal symmetry]].
 8. Giant [[Anomalous Hall effect]] has also been observed in $AV_3Sb_5$ with onset concurrent with [[CDW]] order. (Usual causes are intrinsic [[Berry curvature]] and extrinsic impurity scattering)
@@ -69,3 +64,5 @@ $AV_3Sb_5$ has structural [[Instability]] which can lead to two different types 
 
 Related Links
 [[AV3Sb5 anomalies]]
+
+---

@@ -1,13 +1,15 @@
-# CDW in $NbSe_3$
+## CDW in $NbSe_3$
 $NbSe_3$ is the first inorganic linear chain material in which [[CDW]] transitions were found. The structure is shown below. The units form infinite and relatively well-separated chains. They are linked together with Nb-Se bonds in perpendicular direction. 
 
 ![[NbSe3_Str.png]]
 
 The compound shows sharp increase in resistivity $\rho(T)$, measured along the chain direction, at T = 144K and T = 59K as shown. This indicates a partial destruction of the [[Fermi surface]] at these temperatures.
+
 | Resistivity        | Normalized Resisitivity |
 | ------------------ | ----------------------- |
 | ![[NbSe2_Res.png]] | ![[norm_res_NbSe3.png]] |
 *Temperature dependence of the electrical resistivity and normalized resistivity of $NbSe_3$*. 
+
 
 The two phase transitions, and the metal-like character of $\rho(T)$ is believed to be the consequences of three structurally different chains in the material. One chain remains metallic down to low temperatures, the whole the two phase transitions reflect the development of lattice distortions in the remaining two chains. 
 

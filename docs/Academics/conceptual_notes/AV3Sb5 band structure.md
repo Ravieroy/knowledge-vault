@@ -1,4 +1,4 @@
-### $AV_3Sb_5$ Band structure
+## $AV_3Sb_5$ Band structure
 Tags: #bandstructure #kagome 
 
 
@@ -10,10 +10,9 @@ Tags: #bandstructure #kagome
 	2. Dominant scattering momenta are 3Q ($Qa, Qb,Q_c$) related to three M points as well as the $\Gamma$ point [[Fermi surface]] induced q1 scattering.
 	3. Finally, the [[CDW]] gap size is maximum around the [[Van-Hove singularity]] points, while it vanishes at the $\Gamma$ pocket. 
 #model
-```ad-important
-title: Model
-A minimal model capturing the [[Van-Hove singularity]] points and $\Gamma$ point [[Fermi surface]] could faithfully describe the physics behind $AV_3Sb_5$.
-```
+
+**A minimal model capturing the [[Van-Hove singularity]] points and $\Gamma$ point [[Fermi surface]] could faithfully describe the physics behind $AV_3Sb_5$.**
+
 -  A minimal 4 band model based on the V local $d_{X^2−Y^2}$ orbital and in-plane Sb $p_z$ orbital is proposed([arXiv](https://arxiv.org/abs/2108.04703)).
 ---
 Ref. [Twofold van Hove singularity and origin of charge order in topological kagome superconductor CsV3Sb5 | Nature Physics](https://www.nature.com/articles/s41567-021-01451-5)
