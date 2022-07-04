@@ -1,0 +1,2 @@
+# Strong coupling approach to CDW
+ The strong- coupling approach views the CDW as a condensate out of a pre-formed excitonic liquid of bad metals. The unconventional CDW found in the parent dichalcogenide is a bose-condensate of pre-formed excitons from high temperature. 

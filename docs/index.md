@@ -1,11 +1,21 @@
-# Obsidian Notes
+# Homepage
+The Linux related stuffs are in the folder `LinuxStuffs`, and a curated link to those notes are given in table below. Any link can be clicked to view the note and links therein. Several notes are incomplete as I am still writing them. 
 
-Publish your public notes with MkDocs
+| Applications                      | Basics                                | Utilities                          | Misc                                  |     |
+| --------------------------------- | ------------------------------------- | ---------------------------------- | ------------------------------------- | --- |
+| [[bat]]                           | [[Things to do after Fedora install]] | [[Hide native tab bar in Firefox]] | [[Custom ROM in Mi A2]]               |     |
+| [[lsd]]                           | [[LibreOffice_Install]]               | [[Apple_connect]]                  | [[Ubuntu touch experience]]           |     |
+| [[Vim]]                           | [[oh-my-zsh installation]]            | [[Password feedback in Terminal]]  | [[Flash Ubuntu Touch]]                |     |
+| [[zsh]]                           | [[PPA_Remove]]                        | [[Command line tools]]             | [[Difference between Vim and Neovim]] |     |
+| [[Neovim]]                        | [[Manage user profiles]]              | [[Setting up Flatpak]]             |                                       |     |
+| [[Dolphin installation on GNOME]] | [[Uninstall applications]]            | [[Font spacing bug in Konsole]]    | [[vipw]]                              |     |
+|                                   | [[Fonts installation]]                |                                    | [[visudo]]                                      |     |
 
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+## Incomplete/Empty Notes
+| Column 1     | Column 2                | Column 3         | Column 4                |
+| ------------ | ----------------------- | ---------------- | ----------------------- |
+| [[entr]]     | [[exa]]                 | [[Extraction]]   | [[fd]]                  |
+| [[FOSS]]     | [[fzf]]                 | [[gedit]]        | [[Install Vim plugins]] |
+| [[jump]]     | [[Linux distros]]       | [[lxappearance]] | [[nano]]                |
+| [[nnn]]      | [[Package manager]]     | [[ripgrep]]      | [[Set an alias]]        |
+| [[Terminal]] | [[Useful Vim commands]] |                  |                         | 

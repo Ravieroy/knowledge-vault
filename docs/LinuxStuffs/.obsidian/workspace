@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "ce9e1da027bd28fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f6599bcf993c2a6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Manage user profiles.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "552c13133a126b8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb96465a56c81f50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "832828ddf2a141a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ca62b3256720fec0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f64f877ce5255d7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "394c7af9dfd66a76",
+        "type": "tabs",
+        "dimension": 52.760736196319016,
+        "children": [
+          {
+            "id": "3060f9940c0668b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Manage user profiles.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5f8c5c65f6f08b3f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9dd89f314cbfe56b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Manage user profiles.md"
+              }
+            }
+          },
+          {
+            "id": "d83854c884482421",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "misc/Tasks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "a779dd85f511eea1",
+        "type": "tabs",
+        "dimension": 47.239263803680984,
+        "children": [
+          {
+            "id": "3afcbda8d692c780",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Manage user profiles.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 307
+  },
+  "active": "1f6599bcf993c2a6",
+  "lastOpenFiles": [
+    "Manage user profiles.md",
+    "FAQs.md",
+    "Dolphin installation on GNOME.md",
+    "Custom ROM in Mi A2.md",
+    "Flatpak.md",
+    "Hide native tab bar in Firefox.md",
+    "assets/manage_user_1.png",
+    "assets/manage_user_2.png",
+    "Pasted image 20220621215851.png",
+    "assets/manage_user_3.png"
+  ]
+}
