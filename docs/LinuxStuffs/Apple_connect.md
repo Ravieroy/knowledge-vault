@@ -3,6 +3,8 @@ Links: [Opensource.com](https://opensource.com/article/21/8/libimobiledevice-iph
 
 ---
 
+!!! tip
+
 For iPhone and other iOS devices to be recognized on Ubuntu, you’ll need to install the `libimobiledevice` library first. This allows Ubuntu and other Linux operating systems to interact with these iOS devices.
 
 ```bash

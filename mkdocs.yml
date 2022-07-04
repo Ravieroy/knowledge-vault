@@ -55,11 +55,18 @@ theme:
 # Extensions
 markdown_extensions:
   - footnotes
+  - admonition
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+
   # - attr_list
   - pymdownx.arithmatex:
       generic: true
-  # - pymdownx.superfences
-  # - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.details
   # - pymdownx.magiclink
   # - pymdownx.tasklist:
   #     custom_checkbox: true
