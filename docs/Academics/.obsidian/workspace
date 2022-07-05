@@ -24,7 +24,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "conceptual_notes/Surface Plasmons and Polaritons.md",
+            "file": "conceptual_notes/Inverse photoemission spectroscopy.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conceptual_notes/Surface Plasmons and Polaritons.md",
+                "file": "conceptual_notes/Inverse photoemission spectroscopy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conceptual_notes/Surface Plasmons and Polaritons.md",
+                "file": "conceptual_notes/Inverse photoemission spectroscopy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conceptual_notes/Surface Plasmons and Polaritons.md"
+                "file": "conceptual_notes/Inverse photoemission spectroscopy.md"
               }
             }
           },
@@ -185,6 +185,8 @@
   },
   "active": "a7eab6dd2992c540",
   "lastOpenFiles": [
+    "conceptual_notes/Inverse photoemission spectroscopy.md",
+    "conceptual_notes/Photoelectron spectroscopy.md",
     "conceptual_notes/Surface Plasmons and Polaritons.md",
     "conceptual_notes/Plasma oscillation.md",
     "conceptual_notes/Hyperbolic Plasmons (HP).md",
@@ -192,8 +194,6 @@
     "conceptual_notes/001_ReS2_Stuffs.md",
     "conceptual_notes/Homepage.md",
     "conceptual_notes/001_Jayati.md",
-    "assets/re_dilectric_ReS2.png",
-    "assets/img_dielectric_ReS2.png",
-    "assets/Plasma_Oscillation_sketch.png"
+    "assets/re_dilectric_ReS2.png"
   ]
 }

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Inverse photoemission spectroscopy",
+      "path": "conceptual_notes/Inverse photoemission spectroscopy.md"
+    },
+    {
+      "basename": "Photoelectron spectroscopy",
+      "path": "conceptual_notes/Photoelectron spectroscopy.md"
+    },
+    {
       "basename": "Surface Plasmons and Polaritons",
       "path": "conceptual_notes/Surface Plasmons and Polaritons.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "ARPES_SD_KV3Sb5_T_gr_TCDW",
       "path": "assets/ARPES_SD_KV3Sb5_T_gr_TCDW.png"
-    },
-    {
-      "basename": "ARPES_KV3Sb5_T_ls_TCDW",
-      "path": "assets/ARPES_KV3Sb5_T_ls_TCDW.png"
     }
   ],
   "omittedPaths": [],

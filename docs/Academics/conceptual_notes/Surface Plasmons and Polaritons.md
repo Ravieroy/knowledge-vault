@@ -16,3 +16,5 @@ This paper^[K. Huang, â€œLattice Vibrations and Optical Waves in Ionic Crystalsâ
 To form an SPP, the photon, and surface plasmon resonance(SPR) must have the same frequency and wave vector. This means that the component of the photon wave vector parallel to the interface has to be equal to that of the SPR.
 
 
+
+

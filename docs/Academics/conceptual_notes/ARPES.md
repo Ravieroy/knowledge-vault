@@ -11,13 +11,13 @@ In addition to measuring the electronic states as a function of momentum and ene
 
 |                                |                           |
 | ------------------------------ | -------------------------------- |
-| ![[ARPES_schematic_basic.png]] | ![[ARPES_schematic_basic_2.png]] |
+| ![[docs/Academics/conceptual_notes/assets/ARPES_schematic_basic.png]] | ![[docs/Academics/conceptual_notes/assets/ARPES_schematic_basic_2.png]] |
 |                                |                                  |
 *Principle of modern photoemission spectrometer.*
 
 | DOS                    | Bandstructure |
 | ---------------------- | ------------- |
-| ![[PE_energetics.png]] | ![[BS_ARPES.png]]              |
+| ![[docs/Academics/conceptual_notes/assets/PE_energetics.png]] | ![[docs/Academics/conceptual_notes/assets/BS_ARPES.png]]              |
 *Energetics of photoemission process (left) and simulated ARPES data (right) showing band structure of a 2D-free-electron system*
 
 ## Schematics and working 

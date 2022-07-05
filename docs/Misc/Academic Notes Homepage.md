@@ -29,7 +29,7 @@ Graph View (from my Obsidian vault)
 | [[Fermi pockets]]                |                           | [[Helicity]]                 | [[Instability]]                 |     |
 | [[Fermi surface]]                |                           | [[HP in Black Phosphorus]]   | [[Inversion symmetry]]          |     |
 | [[Fermi surface nesting]]        |                           | [[Hyperbolic Plasmons (HP)]] | [[Inversion symmetry breaking]] |     |
-| [[Ferromagnetic]]                |                           | [[Hysteresis]]               |                                 |     |
+| [[Ferromagnetic]]                |                           | [[Hysteresis]]               | [[Inverse photoemission spectroscopy]]                                |     |
 | [[First order phase transition]] |                           |                              |                                 |     |
 |                                  |                           |                              |                                 |     |
 
@@ -51,7 +51,7 @@ Graph View (from my Obsidian vault)
 | [[Phase diagram of AV3Sb5]]   |                       |                        | [[Specific heat]]                   | [[Topology]]                                |
 | [[Phase transition]]          |                       |                        | [[STM]]                             | [[Types of CDW]]                            |
 | [[Plasma oscillation]]        |                       |                        | [[Strong coupling approach to CDW]] |                                             |
-|                               |                       |                        | [[Summary of work on Kagome]]       |                                             |
+| [[Photoelectron spectroscopy]]                              |                       |                        | [[Summary of work on Kagome]]       |                                             |
 |                               |                       |                        | [[Superconductivity]]               |                                             |
 |                               |                       |                        | [[Surface Plasmons and Polaritons]] |                                             |
 |                               |                       |                        |                                     |                                             |
