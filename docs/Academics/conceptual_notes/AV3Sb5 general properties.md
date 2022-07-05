@@ -22,9 +22,10 @@
 2. Typical metallic behavior modelled by $\rho(T)=\rho_0 +aT^2$.
 3. Anomaly in temperature dependent electrical resistivity, and heat capacity (see fig.2(f, g)). 
 4. Large anisotropy which agrees with V kagome layer playing a dominant role, confirming [[Quasi 2D Material]] nature.  
-```ad-important
-The kink behaviorin the $\rho(T)$ variation around 94K is related to long range [[CDW]] order. The sharp peak in heat capacity indicates the [[CDW]] transition is [[First order]] [[Phase transition]]
-```
+
+!!! important
+	The kink behaviorin the $\rho(T)$ variation around 94K is related to long range [[CDW]] order. The sharp peak in heat capacity indicates the [[CDW]] transition is [[First order]] [[Phase transition]]
+
 ---
 #### [[CDW]] 
 1. CDW phase occurs for all the members of [[AV3Sb5 family]].
@@ -58,9 +59,8 @@ The kink behaviorin the $\rho(T)$ variation around 94K is related to long range 
 2. This constrains the [[CDW]] order and is important for superconducting pairing possibilities.
 3. [[Nematicity]]
 
-```ad-important
-$AV_3Sb_5$ has structural [[Instability]] which can lead to two different types of configuration *Star of David* and *Tri-Hexagonal* as discussed in [[CsV3Sb5 DFT]]. Recent studies shows that the average structure shows signatures of both TrH and SoD structures in staggered layer sequence. 
-```
+!!! important
+	$AV_3Sb_5$ has structural [[Instability]] which can lead to two different types of configuration *Star of David* and *Tri-Hexagonal* as discussed in [[CsV3Sb5 DFT]]. Recent studies show that the average structure shows signatures of both TrH and SoD structures in staggered layer sequence. 
 
 Related Links
 [[AV3Sb5 anomalies]]
