@@ -1,4 +1,4 @@
-### Helicity
+# Helicity
 [source](http://www.quantumdiaries.org/2011/06/19/helicity-chirality-mass-and-the-higgs/)
 
 Every matter particle (electrons, quarks, etc.) is spinning, i.e. each matter particle carries some intrinsic angular momentum. This spin is an inherently quantum mechanical property of fundamental particles. (red: indicates spin and gray: indicates the direction). The particle shows right-handedness. This is called helicity of the particle. (specifically right helicity)

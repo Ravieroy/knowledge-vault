@@ -9,16 +9,16 @@ As an ARPES measurement under one photon energy probes the band dispersion along
 
 In addition to measuring the electronic states as a function of momentum and energy, I(k, E), thanks to developments in the past couple of decades, ARPES can also explore other degrees of freedom of electrons, including their spin polarization, spatial distribution, and time evolution. Such a complete ARPES measurement \[measuring I(k, E, r, s, t), where r, s, and t represent location, spin, and time, respectively\] gives the most comprehensive understanding of the electronic states in equilibrium as well as their dynamics.
 
-|                                |                           |
-| ------------------------------ | -------------------------------- |
-| ![[docs/Academics/conceptual_notes/assets/ARPES_schematic_basic.png]] | ![[docs/Academics/conceptual_notes/assets/ARPES_schematic_basic_2.png]] |
-|                                |                                  |
-*Principle of modern photoemission spectrometer.*
+|                                |     |
+| ------------------------------ | --- |
+| ![[ARPES_Schematic_Basic.png]] | ![[ARPES_Schematic_Basic_2.png]]    |
+	_Principle of modern photoemission spectrometer._
 
-| DOS                    | Bandstructure |
-| ---------------------- | ------------- |
-| ![[docs/Academics/conceptual_notes/assets/PE_energetics.png]] | ![[docs/Academics/conceptual_notes/assets/BS_ARPES.png]]              |
-*Energetics of photoemission process (left) and simulated ARPES data (right) showing band structure of a 2D-free-electron system*
+| DOS                    | Band Structure    |
+| ---------------------- | ----------------- |
+| ![[PE_Energetics.png]] | ![[ARPES_BS.png]] |
+|                        |                   |
+	*Energetics of photoemission process (left) and simulated ARPES data (right) showing band structure of a 2D-free-electron system*
 
 ## Schematics and working 
 ![[ARPES_schematics.png]]

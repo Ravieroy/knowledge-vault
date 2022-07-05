@@ -1,20 +1,6 @@
----
-Title: Charge density wave and superconductivity in transition metal dichalcogenides
-Journal: Eur. Phys. J. B (2020) 93,77
-Date: 09-06-2022
----
-----
-```toc style: 
-bullet | number | inline (default: bullet) 
-min_depth: number (default: 2) 
-max_depth: number (default: 6) 
-title: string (default: undefined) 
-allow_inconsistent_headings: boolean (default: false) 
-delimiter: string (default: |) 
-varied_style: boolean (default: false) 
-```
 ## Charge density wave and superconductivity in transition metal dichalcogenides
->Eur. Phys. J. B (2020) 93: 77
+==Journal Ref.  Eur. Phys. J. B (2020) 93: 77==
+
 ----
 
 

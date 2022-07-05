@@ -1,16 +1,6 @@
----
-Title: Optical activity as a test for dynamic chiral magnetic effect of Weyl semimetals
-Journal: PHYSICAL REVIEW B 92, 161110(R) (2015)
-Date: 05-05-2022
----
-```toc
-title: Table of Contents
-style: number
-varied_style: true
-```
-
 ## Optical activity as a test for dynamic chiral magnetic effect of Weyl semimetals 
->Phys. Rev. B 92, 161110(R)(2015)
+==Journal Ref. Phys. Rev. B 92, 161110(R)(2015)==
+
 ----
 
 Tags: #weyl_semimetal #chirality #magnetic_field #rotary_power

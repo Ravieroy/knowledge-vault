@@ -1,4 +1,4 @@
-### Time Reversal Symmetry 
-for spin- $\frac12$ particles $T^2 = \pm 1$   
+# Time Reversal Symmetry 
+---
 
-- [ ] TRS
+for spin- $\frac12$ particles $T^2 = \pm 1$   

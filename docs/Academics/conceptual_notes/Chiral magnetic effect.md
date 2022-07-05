@@ -8,5 +8,10 @@ Tags: #chiral_magnetic_conductivity
 MF is a crucial part in CME, as it breaks the rotational invariance and creates a preferred orientation for the spins of the fermions. 
 
 ### Equation for chiral magnetic current
-$$j_{ch}(\textbf{q},w) = \sigma_{ch}(\textbf{q},w) i \omega B(\textbf{q},w)$$
+
+$j_{ch}(\textbf{q},w) = \sigma_{ch}(\textbf{q},w) i \omega B(\textbf{q},w)$
+
 where, $\sigma_{ch}(\textbf{q},w)$ is the complex chiral magnetic conductivity. The real and imaginary part of the quantity lead to currents, which are in and out of phase with the MF, respectively. 
+
+---
+

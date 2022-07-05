@@ -1,6 +1,6 @@
-```ad-note
-title: $KV_3Sb_5$
-```
+## $KV_3Sb_5$
+---
+
 Similar to [[CsV3Sb5]], $KV_3Sb_5$ is also from the [[AV3Sb5 family]] which is a [[Kagome metal]] and shares lots of common [[AV3Sb5 general properties]]. 
 
 - Transition temperature, $T_c$ = 0.93K
@@ -14,7 +14,8 @@ Similar to [[CsV3Sb5]], $KV_3Sb_5$ is also from the [[AV3Sb5 family]] which is a
 
 ![[CDW_gaps_KV3Sb5.png]]
 *ARPES measured band structures (right) and their second derivatives. There are two additional CDW gaps at $MG_2$(150meV) and $MG_3$(125meV) away from $E_F$ at 20K.*
-```ad-important
-This feature strongly indicates that the structural transition plays an important role in this CDW transition. It is also clear that the structural transition mostly affects the V kagome network, while the out-of-plane
-coupling involving Sb pz orbitals is hardly changed.
-```
+
+!!! important
+	This feature strongly indicates that the structural transition plays an important role in this CDW transition. It is also clear that the structural transition mostly affects the V kagome network, while the out-of-plane coupling involving Sb pz orbitals is hardly changed.
+
+---

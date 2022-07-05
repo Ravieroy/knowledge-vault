@@ -1,29 +1,25 @@
-```ad-note
-title: Summary of work on Kagome
-```
-```toc
-title: Table of Contents
-style: number
-varied_style: true
-```
+# Summary of work on Kagome
+---
+
 ### CDW and Superconductivity 
 - [[Superconductivity]] at low temperature and unusual [[CDW]] at high temperatures. 
 - Pressure dependent phase diagrams have been observed to show anomaly at specific temperatures. (Read [[AV3Sb5 anomalies]])
 - Double dome type phase diagram under moderate pressure has been obtained, which implies two different kinds of [[CDW]]competing with [[Superconductivity]]. 
 - Multiple SC gaps have been observed. 
 - Cs shows richer double peak behavior than other members from [[AV3Sb5 family]].
-- ***Some seemingly open questions :***
+
+!!! question "***Some seemingly open questions :*** "
 	- Origin of first and second SC dome.
 	- Pairing symmetry with first dome.
 	- Relationship with high pressure phase. 
-- Unconventional chiral charge order. 
+	- Unconventional chiral charge order. 
 
 ### Topology
 - Presence of multiple Dirac points near the Fermi surface. 
 - Corresponding topological protected surface states that occur at the M points (a [[Time-reversal invariant momentum (TRIM)]] point) in the Brillouin zone, in addition to small Fermi surfaces with low effective mass and non-zero Berry phases.
 - Dirac nodal lines and loops near the Fermi level along the $k_z$ direction and surrounding the H points.
 - ARPES has also been shown to reveal topological surface states and flatbands in [[CsV3Sb5]] with implications on electron correlation phenomena.
-- Temperature-driven band renormalization(from ARPES).
+- Temperature-driven band renormalization (from ARPES).
 
 ### Anomalous Hall Effect
 - The extracted values of the [[Anomalous Hall effect]] conductivity for [[AV3Sb5 family]] of compounds reach extremely high values of $> 10^4 \Omega^{-1}cm^{-1}$ and large value of anomalous hall ratio of $\sim 1.8\%$. 

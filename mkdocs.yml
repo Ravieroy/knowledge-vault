@@ -4,7 +4,7 @@ site_author: Ravi Roy
 
 # Repository
 repo_name: Ravieroy/knowledge-vault
-repo_url: https://ravieroy.github.io/knowledge-vault/
+repo_url: https://github.com/Ravieroy/knowledge-vault/
 
 # Configuration
 theme:
@@ -48,7 +48,7 @@ theme:
         name: Switch to dark mode
     - scheme: slate
       primary: indigo
-      accent: light blue
+      accent:  blue
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
