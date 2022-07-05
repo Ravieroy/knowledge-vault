@@ -42,7 +42,7 @@ theme:
   palette:
     - scheme: default
       primary: blue grey
-      accent: light blue
+      accent: blue
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
