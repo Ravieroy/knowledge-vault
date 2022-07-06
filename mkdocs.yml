@@ -9,7 +9,9 @@ repo_url: https://github.com/Ravieroy/knowledge-vault/
 # Configuration
 theme:
   name: material
-
+  icon: 
+    repo: fontawesome/brands/github 
+    #for more see https://squidfunk.github.io/mkdocs-material/setup/adding-a-git-repository/#repository-name
   # Static files
   static_templates:
     - 404.html
@@ -85,4 +87,14 @@ extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-  - https://unpkg.com/mermaid/dist/mermaid.min.js 
+  - https://unpkg.com/mermaid/dist/mermaid.min.js
+
+# Customization
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Ravieroy
+    - icon: fontawesome/solid/blog
+      link: https://ravieroy.github.io/
+    - icon: fontawesome/brands/reddit-alien
+      link: https://www.reddit.com/user/Optimus-Prime1993
