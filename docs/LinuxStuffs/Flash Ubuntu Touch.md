@@ -9,6 +9,6 @@
 1. SDK Platform Tools ([Download Link](https://developer.android.com/studio/releases/platform-tools))
 2. vendor.img ([Download here](https://github.com/ubports-xiaomi-sdm660/artifacts/releases/download/v0.1/vendor.img))
 3. TWRP ([Download here](https://github.com/ubports-xiaomi-sdm660/artifacts/releases/download/v0.1/vendor.img))
-4. Android 9 stock image([Download here](<(https://github.com/ubports-xiaomi-sdm660/artifacts/releases/download/v0.1/jasmine_sprout_stock_android9.zip>))
+4. Android 9 stock image([Download here](https://github.com/ubports-xiaomi-sdm660/artifacts/releases/download/v0.1/jasmine_sprout_stock_android9.zip))
 5. UB Ports installer (It can downloaded from [official website](https://devices.ubuntu-touch.io/))
 

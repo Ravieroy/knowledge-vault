@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "ARPES",
+      "path": "conceptual_notes/ARPES.md"
+    },
+    {
+      "basename": "ARPES_schematics",
+      "path": "assets/ARPES_schematics.png"
+    },
+    {
+      "basename": "Weyl Basics",
+      "path": "conceptual_notes/Weyl Basics.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "conceptual_notes/Homepage.md"
+    },
+    {
       "basename": "WSM with broken T symmetry",
       "path": "conceptual_notes/WSM with broken T symmetry.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Density of states",
       "path": "conceptual_notes/Density of states.md"
-    },
-    {
-      "basename": "Degree of freedom",
-      "path": "conceptual_notes/Degree of freedom.md"
-    },
-    {
-      "basename": "CsV6Sb6 ARPES",
-      "path": "conceptual_notes/CsV6Sb6 ARPES.md"
-    },
-    {
-      "basename": "CsV3Sb5 DFT",
-      "path": "conceptual_notes/CsV3Sb5 DFT.md"
-    },
-    {
-      "basename": "Steps to make an academic poster",
-      "path": "poster/Steps to make an academic poster.md"
     }
   ],
   "omittedPaths": [],

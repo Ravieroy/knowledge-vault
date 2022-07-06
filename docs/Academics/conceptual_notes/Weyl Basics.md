@@ -1,25 +1,5 @@
 ## Basics of Weyl Physics 
-
-Links: [[Basic_stuffs]]
-```toc style: 
-bullet | number | inline (default: bullet) 
-min_depth: number (default: 2) 
-max_depth: number (default: 6) 
-title: string (default: undefined) 
-allow_inconsistent_headings: boolean (default: false) 
-delimiter: string (default: |) 
-varied_style: boolean (default: false) 
-```
-
-### TODOs
-- [ ] What is WSM ?
-- [ ] TRI systems 
-- [ ] Berry curvature 
-- [ ] RH and LH WSM 
-- [ ] Chiral Chemical potential
-- [ ] DCME
 ----
-
 ### Kramer's Theorem 
 For every energy eigenstate of a time-reversal symmetric system with half-integer total spin, there is at least one more eigenstate with the same energy. That is, every energy level is at least doubly degenerate if it has half-integer spin. [[Kramers Theorem]]
 

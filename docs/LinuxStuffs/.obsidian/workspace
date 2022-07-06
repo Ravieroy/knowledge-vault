@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Manage user profiles.md",
+            "file": "OpenOffice_LibreOffice.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "13296daf98636af9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TODOS/Synaptic.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Manage user profiles.md",
+                "file": "TODOS/Synaptic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Manage user profiles.md"
+                "file": "TODOS/Synaptic.md"
               }
             }
           },
@@ -128,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Manage user profiles.md",
+                "file": "TODOS/Synaptic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,10 +150,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307
+    "width": 370
   },
-  "active": "1f6599bcf993c2a6",
+  "active": "13296daf98636af9",
   "lastOpenFiles": [
+    "TODOS/Synaptic.md",
+    "OpenOffice_LibreOffice.md",
     "Manage user profiles.md",
     "FAQs.md",
     "Dolphin installation on GNOME.md",
@@ -149,8 +163,6 @@
     "Flatpak.md",
     "Hide native tab bar in Firefox.md",
     "assets/manage_user_1.png",
-    "assets/manage_user_2.png",
-    "Pasted image 20220621215851.png",
-    "assets/manage_user_3.png"
+    "assets/manage_user_2.png"
   ]
 }

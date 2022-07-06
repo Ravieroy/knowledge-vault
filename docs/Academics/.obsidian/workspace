@@ -15,6 +15,19 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "4eedaf6b594fd9dc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conceptual_notes/ARPES.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conceptual_notes/WSM with broken T symmetry.md",
+                "file": "conceptual_notes/ARPES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conceptual_notes/WSM with broken T symmetry.md",
+                "file": "conceptual_notes/ARPES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conceptual_notes/WSM with broken T symmetry.md"
+                "file": "conceptual_notes/ARPES.md"
               }
             }
           },
@@ -168,17 +181,17 @@
     "width": 373,
     "collapsed": true
   },
-  "active": "bfa2a19a0a7f3189",
+  "active": "4eedaf6b594fd9dc",
   "lastOpenFiles": [
+    "conceptual_notes/ARPES.md",
+    "assets/ARPES_schematics.png",
+    "conceptual_notes/Weyl Basics.md",
+    "conceptual_notes/Homepage.md",
     "conceptual_notes/WSM with broken T symmetry.md",
     "conceptual_notes/WSM with broken P symmetry.md",
     "conceptual_notes/Time reversal symmetry.md",
     "conceptual_notes/Tight-binding model.md",
     "conceptual_notes/Surface Plasmons and Polaritons.md",
-    "conceptual_notes/Superconductivity.md",
-    "conceptual_notes/Summary of work on Kagome.md",
-    "conceptual_notes/Quasi 2D Material.md",
-    "conceptual_notes/Plasma oscillation.md",
-    "conceptual_notes/Photoelectron spectroscopy.md"
+    "conceptual_notes/Superconductivity.md"
   ]
 }
