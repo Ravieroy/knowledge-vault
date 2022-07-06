@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "AV3Sb5 general properties",
+      "path": "conceptual_notes/AV3Sb5 general properties.md"
+    },
+    {
       "basename": "ARPES",
       "path": "conceptual_notes/ARPES.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "DFT",
       "path": "conceptual_notes/DFT.md"
-    },
-    {
-      "basename": "Density of states",
-      "path": "conceptual_notes/Density of states.md"
     }
   ],
   "omittedPaths": [],

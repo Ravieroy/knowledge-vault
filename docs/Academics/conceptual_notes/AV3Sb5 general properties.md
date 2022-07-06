@@ -24,7 +24,7 @@
 4. Large anisotropy which agrees with V kagome layer playing a dominant role, confirming [[Quasi 2D Material]] nature.  
 
 !!! important
-	The kink behaviorin the $\rho(T)$ variation around 94K is related to long range [[CDW]] order. The sharp peak in heat capacity indicates the [[CDW]] transition is [[First order]] [[Phase transition]]
+	The kink behaviorin the $\rho(T)$ variation around 94K is related to long range [[CDW]] order. The sharp peak in heat capacity indicates the [[CDW]] transition is First order [[Phase transition]]
 
 ---
 #### [[CDW]] 

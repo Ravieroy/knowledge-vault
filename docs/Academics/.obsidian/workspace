@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "conceptual_notes/ARPES.md",
+            "file": "conceptual_notes/AV3Sb5 general properties.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "First",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +71,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conceptual_notes/ARPES.md",
+                "file": "conceptual_notes/AV3Sb5 general properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conceptual_notes/ARPES.md",
+                "file": "conceptual_notes/AV3Sb5 general properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conceptual_notes/ARPES.md"
+                "file": "conceptual_notes/AV3Sb5 general properties.md"
               }
             }
           },
@@ -183,6 +184,7 @@
   },
   "active": "4eedaf6b594fd9dc",
   "lastOpenFiles": [
+    "conceptual_notes/AV3Sb5 general properties.md",
     "conceptual_notes/ARPES.md",
     "assets/ARPES_schematics.png",
     "conceptual_notes/Weyl Basics.md",
@@ -191,7 +193,6 @@
     "conceptual_notes/WSM with broken P symmetry.md",
     "conceptual_notes/Time reversal symmetry.md",
     "conceptual_notes/Tight-binding model.md",
-    "conceptual_notes/Surface Plasmons and Polaritons.md",
-    "conceptual_notes/Superconductivity.md"
+    "conceptual_notes/Surface Plasmons and Polaritons.md"
   ]
 }
