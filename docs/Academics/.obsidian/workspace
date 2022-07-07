@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "papers/PRB.92.161110_Pallab_Goswami.md",
+            "file": "README.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "papers/PRB.92.161110_Pallab_Goswami.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "papers/PRB.92.161110_Pallab_Goswami.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "papers/PRB.92.161110_Pallab_Goswami.md"
+                "file": "README.md"
               }
             }
           },
@@ -183,6 +183,7 @@
   },
   "active": "4eedaf6b594fd9dc",
   "lastOpenFiles": [
+    "README.md",
     "papers/PRB.92.161110_Pallab_Goswami.md",
     "conceptual_notes/AV3Sb5 general properties.md",
     "conceptual_notes/Homepage.md",
@@ -191,7 +192,6 @@
     "conceptual_notes/Weyl Basics.md",
     "conceptual_notes/WSM with broken T symmetry.md",
     "conceptual_notes/WSM with broken P symmetry.md",
-    "conceptual_notes/Time reversal symmetry.md",
-    "conceptual_notes/Tight-binding model.md"
+    "conceptual_notes/Time reversal symmetry.md"
   ]
 }

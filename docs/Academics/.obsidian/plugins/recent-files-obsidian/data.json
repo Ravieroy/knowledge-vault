@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "PRB.92.161110_Pallab_Goswami",
       "path": "papers/PRB.92.161110_Pallab_Goswami.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "DMFT",
       "path": "conceptual_notes/DMFT.md"
-    },
-    {
-      "basename": "Dielectric response",
-      "path": "conceptual_notes/Dielectric response.md"
     }
   ],
   "omittedPaths": [],
