@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "conceptual_notes/AV3Sb5 general properties.md",
+            "file": "papers/PRB.92.161110_Pallab_Goswami.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conceptual_notes/AV3Sb5 general properties.md",
+                "file": "papers/PRB.92.161110_Pallab_Goswami.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conceptual_notes/AV3Sb5 general properties.md",
+                "file": "papers/PRB.92.161110_Pallab_Goswami.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conceptual_notes/AV3Sb5 general properties.md"
+                "file": "papers/PRB.92.161110_Pallab_Goswami.md"
               }
             }
           },
@@ -183,15 +183,15 @@
   },
   "active": "4eedaf6b594fd9dc",
   "lastOpenFiles": [
+    "papers/PRB.92.161110_Pallab_Goswami.md",
     "conceptual_notes/AV3Sb5 general properties.md",
+    "conceptual_notes/Homepage.md",
     "conceptual_notes/ARPES.md",
     "assets/ARPES_schematics.png",
     "conceptual_notes/Weyl Basics.md",
-    "conceptual_notes/Homepage.md",
     "conceptual_notes/WSM with broken T symmetry.md",
     "conceptual_notes/WSM with broken P symmetry.md",
     "conceptual_notes/Time reversal symmetry.md",
-    "conceptual_notes/Tight-binding model.md",
-    "conceptual_notes/Surface Plasmons and Polaritons.md"
+    "conceptual_notes/Tight-binding model.md"
   ]
 }

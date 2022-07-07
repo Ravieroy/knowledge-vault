@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "PRB.92.161110_Pallab_Goswami",
+      "path": "papers/PRB.92.161110_Pallab_Goswami.md"
+    },
+    {
       "basename": "AV3Sb5 general properties",
       "path": "conceptual_notes/AV3Sb5 general properties.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "conceptual_notes/Homepage.md"
     },
     {
       "basename": "ARPES",
@@ -15,10 +23,6 @@
     {
       "basename": "Weyl Basics",
       "path": "conceptual_notes/Weyl Basics.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "conceptual_notes/Homepage.md"
     },
     {
       "basename": "WSM with broken T symmetry",
@@ -195,10 +199,6 @@
     {
       "basename": "Dielectric response",
       "path": "conceptual_notes/Dielectric response.md"
-    },
-    {
-      "basename": "DFT",
-      "path": "conceptual_notes/DFT.md"
     }
   ],
   "omittedPaths": [],
