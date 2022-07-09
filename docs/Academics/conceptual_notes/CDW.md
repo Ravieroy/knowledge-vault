@@ -5,7 +5,15 @@
 
 *Highly anisotropic band structure* leads to a novel type of ground state called charge-density wave. The condensate is pinned to the underlying lattice by impurities and by boundary effects. This is a collective transport phenomena of electron-hole pairs. 
 
-One dimensional metal coupled to underlying lattice is not stable at low temperatures. The ground state of the coupled state of the coupled electron-phonon system is characterized by a gap in single -particle excitation spectrum and by a collective mode formed by electron-hole pairs involving the wave vector $q=2k_F$. The charge density associated with the collective mode is, $$\rho(r) = \rho_0 + \rho_1 \cos(2k_F \cdot r + \phi)$$, where $\rho_0$ is the unperturbed electron density of the metal, and the condensate is called Charge density wave.
+One dimensional metal coupled to underlying lattice is not stable at low temperatures. The ground state of the coupled state of the coupled electron-phonon system is characterized by a gap in single -particle excitation spectrum and by a collective mode formed by electron-hole pairs involving the wave vector $q=2k_F$. The charge density associated with the collective mode is, 
+
+$$
+\begin{equation}
+\rho(r) = \rho_0 + \rho_1 \cos(2k_F \cdot r + \phi) 
+\end{equation}
+$$
+
+, where $\rho_0$ is the unperturbed electron density of the metal, and the condensate is called Charge density wave.
 
 Similar to superconductors, the order parameter is complex and the phase $\phi$ of the condensate is very important. It's time and spatial derivative is related to the electric current and to the condensate density.  *In the absence of pinning and damping, the condensate can carry current leading to [[Superconductivity]]*. The thermodynamics of CDW state closely resembles that of Superconducting ground state. The gap $\Delta$ in terms of the dimensionless e-p coupling constant is given by 
 

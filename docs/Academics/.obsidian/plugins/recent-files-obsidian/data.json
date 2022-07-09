@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Fermi level",
+      "path": "conceptual_notes/Fermi level.md"
+    },
+    {
+      "basename": "Fermi energy",
+      "path": "conceptual_notes/Fermi energy.md"
+    },
+    {
+      "basename": "CDW",
+      "path": "conceptual_notes/CDW.md"
+    },
+    {
       "basename": "Dynamic chiral magnetic effect",
       "path": "conceptual_notes/Dynamic chiral magnetic effect.md"
     },
@@ -47,10 +59,6 @@
     {
       "basename": "Hyperbolic Plasmons (HP)",
       "path": "conceptual_notes/Hyperbolic Plasmons (HP).md"
-    },
-    {
-      "basename": "CDW",
-      "path": "conceptual_notes/CDW.md"
     },
     {
       "basename": "Density of states",
@@ -187,18 +195,6 @@
     {
       "basename": "Pauli_Exclusion_Principle .excalidraw",
       "path": "Excalidraw/Pauli_Exclusion_Principle .excalidraw.md"
-    },
-    {
-      "basename": "Fermi energy",
-      "path": "conceptual_notes/Fermi energy.md"
-    },
-    {
-      "basename": "Fermi level",
-      "path": "conceptual_notes/Fermi level.md"
-    },
-    {
-      "basename": "Fermi_level",
-      "path": "assets/Fermi_level.png"
     }
   ],
   "omittedPaths": [],

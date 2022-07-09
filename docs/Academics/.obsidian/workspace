@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "conceptual_notes/Dynamic chiral magnetic effect.md",
+            "file": "conceptual_notes/Fermi level.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conceptual_notes/Dynamic chiral magnetic effect.md",
+                "file": "conceptual_notes/Fermi level.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conceptual_notes/Dynamic chiral magnetic effect.md",
+                "file": "conceptual_notes/Fermi level.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conceptual_notes/Dynamic chiral magnetic effect.md"
+                "file": "conceptual_notes/Fermi level.md"
               }
             }
           },
@@ -183,15 +183,15 @@
   },
   "active": "8bed21e7f4ab3512",
   "lastOpenFiles": [
+    "conceptual_notes/Fermi level.md",
+    "conceptual_notes/Fermi energy.md",
+    "conceptual_notes/CDW.md",
+    "conceptual_notes/Homepage.md",
     "conceptual_notes/Dynamic chiral magnetic effect.md",
     "conceptual_notes/AV3Sb5 and AV6Sb6 comparison.md",
     "conceptual_notes/Ferromagnetism.md",
     "conceptual_notes/Hysteresis.md",
     "conceptual_notes/Electron-correlation effects.md",
-    "conceptual_notes/Specific heat.md",
-    "conceptual_notes/Inversion symmetry.md",
-    "conceptual_notes/First order phase transition.md",
-    "conceptual_notes/Phase transition.md",
-    "conceptual_notes/Meissner effect.md"
+    "conceptual_notes/Specific heat.md"
   ]
 }

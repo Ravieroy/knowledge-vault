@@ -1,6 +1,6 @@
 # Fermi level 
 ---
-!!!! tip
+!!! tip
 	Read this in analogous with the [[Fermi energy]] for complete understanding. 
 
 The highest energy level that an electron can occupy at the absolute zero temperature is known as the **Fermi Level**. The Fermi level lies between the valence band and conduction band because at absolute zero temperature the electrons are all in the lowest energy state. Due to the lack of sufficient energy at 0 Kelvin, the Fermi level can be considered as the sea of fermions (or electrons) above which no electrons exist. The Fermi level changes as the solids are heated and as electrons are added to or withdrawn from the solid.
