@@ -4,7 +4,7 @@ The Linux related stuffs are in the folder `LinuxStuffs`, and a curated link to 
 
 Graph View from my Obsidian Vault
 
-![[docs/Misc/LinuxStuffs_Graph_view.png]]
+![[LinuxStuffs_Graph_view.png]]
 
 | Applications                      | Basics                                | Utilities                          | Misc                                  |     |
 | --------------------------------- | ------------------------------------- | ---------------------------------- | ------------------------------------- | --- |
