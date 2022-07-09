@@ -1,1 +1,0 @@
-![[academic_graph_view.png]]

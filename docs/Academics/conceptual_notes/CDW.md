@@ -7,7 +7,15 @@
 
 One dimensional metal coupled to underlying lattice is not stable at low temperatures. The ground state of the coupled state of the coupled electron-phonon system is characterized by a gap in single -particle excitation spectrum and by a collective mode formed by electron-hole pairs involving the wave vector $q=2k_F$. The charge density associated with the collective mode is, $$\rho(r) = \rho_0 + \rho_1 \cos(2k_F \cdot r + \phi)$$, where $\rho_0$ is the unperturbed electron density of the metal, and the condensate is called Charge density wave.
 
-Similar to superconductors, the order parameter is complex and the phase $\phi$ of the condensate is very important. It's time and spatial derivative is related to the electric current and to the condensate density.  *In the absence of pinning and damping, the condensate can carry current leading to [[Superconductivity]]*. The thermodynamics of CDW state closely resembles that of Superconducting ground state. The gap $\Delta$ in terms of the dimensionless e-p coupling constant is given by $$\Delta = 2D \exp(-1/\lambda)$$, Where D is the one-dimensional bandwidth.
+Similar to superconductors, the order parameter is complex and the phase $\phi$ of the condensate is very important. It's time and spatial derivative is related to the electric current and to the condensate density.  *In the absence of pinning and damping, the condensate can carry current leading to [[Superconductivity]]*. The thermodynamics of CDW state closely resembles that of Superconducting ground state. The gap $\Delta$ in terms of the dimensionless e-p coupling constant is given by 
+
+$$
+\begin{equation}
+\Delta = 2D \exp(-1/\lambda) 
+\end{equation}
+$$
+
+, Where D is the one-dimensional bandwidth.
 
  The collective mode is formed by e-h pairs, involving the wave-vector $2k_F$ as electron and holes on the opposite side of the [[Fermi surface]] are combined to lead to the CDW and to the accompanying lattice distortion. 
  

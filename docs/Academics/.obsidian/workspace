@@ -7,8 +7,13 @@
         "id": "8bed21e7f4ab3512",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "conceptual_notes/Dynamic chiral magnetic effect.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conceptual_notes/Dynamic chiral magnetic effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conceptual_notes/Dynamic chiral magnetic effect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conceptual_notes/Dynamic chiral magnetic effect.md"
+              }
             }
           },
           {
@@ -174,15 +183,15 @@
   },
   "active": "8bed21e7f4ab3512",
   "lastOpenFiles": [
-    "assets/academic_graph_view.png",
-    "conceptual_notes/academic_graph_view.md",
-    "academic_graph_view.png",
-    "conceptual_notes/Hyperbolic Plasmons (HP).md",
-    "conceptual_notes/HP in Black Phosphorus.md",
-    "Academic Notes Homepage.md",
-    "conceptual_notes/Meissner effect.md",
+    "conceptual_notes/Dynamic chiral magnetic effect.md",
+    "conceptual_notes/AV3Sb5 and AV6Sb6 comparison.md",
     "conceptual_notes/Ferromagnetism.md",
-    "assets/Meissner_effect.png",
-    "conceptual_notes/First order phase transition.md"
+    "conceptual_notes/Hysteresis.md",
+    "conceptual_notes/Electron-correlation effects.md",
+    "conceptual_notes/Specific heat.md",
+    "conceptual_notes/Inversion symmetry.md",
+    "conceptual_notes/First order phase transition.md",
+    "conceptual_notes/Phase transition.md",
+    "conceptual_notes/Meissner effect.md"
   ]
 }

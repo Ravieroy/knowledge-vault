@@ -21,27 +21,7 @@ From this last definition, it is easy to see that the density of states measures
 
 ![[DOS.png]]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 !!! note "Useful Links :"
 1. [Density of States - Engineering LibreTexts](https://eng.libretexts.org/Bookshelves/Materials_Science/Supplemental_Modules_(Materials_Science)/Electronic_Properties/Density_of_States)
-2. 
+

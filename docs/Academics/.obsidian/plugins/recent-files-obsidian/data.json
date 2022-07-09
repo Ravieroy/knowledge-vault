@@ -1,28 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "academic_graph_view",
-      "path": "conceptual_notes/academic_graph_view.md"
+      "basename": "Dynamic chiral magnetic effect",
+      "path": "conceptual_notes/Dynamic chiral magnetic effect.md"
     },
     {
-      "basename": "Hyperbolic Plasmons (HP)",
-      "path": "conceptual_notes/Hyperbolic Plasmons (HP).md"
-    },
-    {
-      "basename": "HP in Black Phosphorus",
-      "path": "conceptual_notes/HP in Black Phosphorus.md"
-    },
-    {
-      "basename": "Meissner effect",
-      "path": "conceptual_notes/Meissner effect.md"
+      "basename": "AV3Sb5 and AV6Sb6 comparison",
+      "path": "conceptual_notes/AV3Sb5 and AV6Sb6 comparison.md"
     },
     {
       "basename": "Ferromagnetism",
       "path": "conceptual_notes/Ferromagnetism.md"
     },
     {
-      "basename": "Meissner_effect",
-      "path": "assets/Meissner_effect.png"
+      "basename": "Hysteresis",
+      "path": "conceptual_notes/Hysteresis.md"
+    },
+    {
+      "basename": "Electron-correlation effects",
+      "path": "conceptual_notes/Electron-correlation effects.md"
+    },
+    {
+      "basename": "Specific heat",
+      "path": "conceptual_notes/Specific heat.md"
+    },
+    {
+      "basename": "Inversion symmetry",
+      "path": "conceptual_notes/Inversion symmetry.md"
     },
     {
       "basename": "First order phase transition",
@@ -33,32 +37,64 @@
       "path": "conceptual_notes/Phase transition.md"
     },
     {
+      "basename": "Meissner effect",
+      "path": "conceptual_notes/Meissner effect.md"
+    },
+    {
+      "basename": "HP in Black Phosphorus",
+      "path": "conceptual_notes/HP in Black Phosphorus.md"
+    },
+    {
+      "basename": "Hyperbolic Plasmons (HP)",
+      "path": "conceptual_notes/Hyperbolic Plasmons (HP).md"
+    },
+    {
+      "basename": "CDW",
+      "path": "conceptual_notes/CDW.md"
+    },
+    {
+      "basename": "Density of states",
+      "path": "conceptual_notes/Density of states.md"
+    },
+    {
+      "basename": "Surface Plasmons and Polaritons",
+      "path": "conceptual_notes/Surface Plasmons and Polaritons.md"
+    },
+    {
+      "basename": "Time reversal symmetry",
+      "path": "conceptual_notes/Time reversal symmetry.md"
+    },
+    {
+      "basename": "Tight-binding model",
+      "path": "conceptual_notes/Tight-binding model.md"
+    },
+    {
+      "basename": "Time-reversal invariant momentum (TRIM)",
+      "path": "conceptual_notes/Time-reversal invariant momentum (TRIM).md"
+    },
+    {
+      "basename": "Van-Hove singularity",
+      "path": "conceptual_notes/Van-Hove singularity.md"
+    },
+    {
+      "basename": "Degree of freedom",
+      "path": "conceptual_notes/Degree of freedom.md"
+    },
+    {
+      "basename": "Accidental degeneracy",
+      "path": "conceptual_notes/Accidental degeneracy.md"
+    },
+    {
+      "basename": "Meissner_effect",
+      "path": "assets/Meissner_effect.png"
+    },
+    {
       "basename": "Phase_Diagram",
       "path": "assets/Phase_Diagram.png"
     },
     {
-      "basename": "Inversion symmetry",
-      "path": "conceptual_notes/Inversion symmetry.md"
-    },
-    {
-      "basename": "Specific heat",
-      "path": "conceptual_notes/Specific heat.md"
-    },
-    {
-      "basename": "Electron-correlation effects",
-      "path": "conceptual_notes/Electron-correlation effects.md"
-    },
-    {
-      "basename": "Hysteresis",
-      "path": "conceptual_notes/Hysteresis.md"
-    },
-    {
       "basename": "Hysteresis",
       "path": "assets/Hysteresis.png"
-    },
-    {
-      "basename": "Dynamic chiral magnetic effect",
-      "path": "conceptual_notes/Dynamic chiral magnetic effect.md"
     },
     {
       "basename": "Kagome Geometry",
@@ -67,14 +103,6 @@
     {
       "basename": "AV3Sb5 family",
       "path": "conceptual_notes/AV3Sb5 family.md"
-    },
-    {
-      "basename": "AV3Sb5 and AV6Sb6 comparison",
-      "path": "conceptual_notes/AV3Sb5 and AV6Sb6 comparison.md"
-    },
-    {
-      "basename": "Degree of freedom",
-      "path": "conceptual_notes/Degree of freedom.md"
     },
     {
       "basename": "Vibrational_DOF_diatomic",
@@ -97,10 +125,6 @@
       "path": "assets/T_dependence_rho_metal.png"
     },
     {
-      "basename": "Van-Hove singularity",
-      "path": "conceptual_notes/Van-Hove singularity.md"
-    },
-    {
       "basename": "AV6Sb6 DFT",
       "path": "conceptual_notes/AV6Sb6 DFT.md"
     },
@@ -111,10 +135,6 @@
     {
       "basename": "equation",
       "path": "templates/equation.md"
-    },
-    {
-      "basename": "Time-reversal invariant momentum (TRIM)",
-      "path": "conceptual_notes/Time-reversal invariant momentum (TRIM).md"
     },
     {
       "basename": "Kramers Theorem",
@@ -143,10 +163,6 @@
     {
       "basename": "DFT",
       "path": "conceptual_notes/DFT.md"
-    },
-    {
-      "basename": "Density of states",
-      "path": "conceptual_notes/Density of states.md"
     },
     {
       "basename": "DOS",
@@ -183,18 +199,6 @@
     {
       "basename": "Fermi_level",
       "path": "assets/Fermi_level.png"
-    },
-    {
-      "basename": "BdG Theory",
-      "path": "conceptual_notes/BdG Theory.md"
-    },
-    {
-      "basename": "PRB.92.161110_Pallab_Goswami",
-      "path": "papers/PRB.92.161110_Pallab_Goswami.md"
-    },
-    {
-      "basename": "WSM with broken T symmetry",
-      "path": "conceptual_notes/WSM with broken T symmetry.md"
     }
   ],
   "omittedPaths": [],
