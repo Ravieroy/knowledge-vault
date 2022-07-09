@@ -6,7 +6,7 @@ Tags: #bandstructure #kagome
 -  The in-plane Sb $p_z$ orbital forms one electron pocket around the $\Gamma$ point, and the V d orbitals form multiple [[Fermi surface]] around the M points.
 - It is very difficult to capture such a complicated Fermi surface topography in a simplified [[Tight-binding model]]. 
 - The essential electronic structure of $AV_3Sb_5$ is widely believed to be dominated by the quasiparticles around the [[Van-Hove singularity]] points. 
-	1. [[Van-Hove singularity]] points lies very close to [[Fermi energy]] as obtained from [[DFT]] and [[ARPES]] calculations.
+	1. [[Van-Hove singularity]] points lies very close to [[Fermi level]] as obtained from [[DFT]] and [[ARPES]] calculations.
 	2. Dominant scattering momenta are 3Q ($Qa, Qb,Q_c$) related to three M points as well as the $\Gamma$ point [[Fermi surface]] induced q1 scattering.
 	3. Finally, the [[CDW]] gap size is maximum around the [[Van-Hove singularity]] points, while it vanishes at the $\Gamma$ pocket. 
 #model

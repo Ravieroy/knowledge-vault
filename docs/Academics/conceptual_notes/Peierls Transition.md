@@ -1,5 +1,5 @@
 # Peierls Transition
-- In absence of e-e interaction and e-p interaction, the electron states are filled up to [[Fermi energy]] and the ground state corresponds to the situation shown in Fig. 1(a)
+- In absence of e-e interaction and e-p interaction, the electron states are filled up to [[Fermi level]] and the ground state corresponds to the situation shown in Fig. 1(a)
 - In presence of e-p interaction, it is favorable to introduce a periodic lattice distortion with a period of $\lambda$ related to the Fermi wave vector $k_F$ by, $$\lambda = \frac{\pi}{k_F}$$
 - This distortion opens up a gap at the Fermi level, which leads to lowering of the electronic energy. 
 

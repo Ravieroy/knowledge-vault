@@ -1,5 +1,5 @@
 ## Phase Diagram : $AV_3Sb_5$
-The charge order([[CDW]]) and [[Superconductivity]] compete for the same electronic [[Density of states]] at the Fermi level ([[Fermi energy]]), the superconducting transition temperature is typically enhanced as charge order(CO) is suppressed and evolves more gradually beyond the full suppression of CO. 
+The charge order([[CDW]]) and [[Superconductivity]] compete for the same electronic [[Density of states]] at the Fermi level ([[Fermi level]]), the superconducting transition temperature is typically enhanced as charge order(CO) is suppressed and evolves more gradually beyond the full suppression of CO. 
 
 **Temperature dependent phase diagram** is studied through electrical transport measurements. 
 

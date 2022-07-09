@@ -1,5 +1,5 @@
 # Hyperbolic Plasmon in Black Phosphorus 
-Optical Conductivity of bilayer black phosphorus 
+## Optical Conductivity of bilayer black phosphorus 
 
 | Imaginary Part              | Real Part |
 | --------------------------- | --------- |
@@ -12,5 +12,14 @@ Optical Conductivity of bilayer black phosphorus
 
 - Under compressive strain, ==the band gap of bilayer black phosphorus becomes smaller==. As a result, the optical peaks shift to lower frequencies and $\omega_h$ goes down. 
 - For increasing bias in the bilayer case [Figs. 4(e) and 4(f)], the hyperbolic onset frequency $\omega_h$ first goes up, ==because the bands corresponding to the excitation causing the second peak move away from one another. Then it goes down as the band gap closes, and a new peak appears in between the two existing peaks, because breaking the mirror symmetry in the z direction allows for new hybrid transitions.==
+
+
+---
+Related Links :
+[[HP in Black Phosphorus]]
+[[Surface Plasmons and Polaritons]]
+[[Plasma oscillation]]
+
+
 
 

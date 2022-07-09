@@ -9,7 +9,7 @@ The technique of inverse photoemission spectroscopy (IPES) is the opposite of t
 	- coupling into unoccupied state (conduction)
 	- decay through scattering 
 	- photon emission
-- Electron energies above the [[Fermi energy]] are measured 
+- Electron energies above the [[Fermi level]] are measured 
 - Energy $\hbar \omega = E_i - E_f$
 - Energy difference can be calculated with outgoing and incoming energy 
 - Detection of energies between the Fermi and vacuum level is possible. 

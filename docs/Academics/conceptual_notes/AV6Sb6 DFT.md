@@ -7,9 +7,9 @@
 
 #### $CsV_6Sb_6$ Band structure 
 ![[CsV6Sb6_bands.png]]
-- The DOS in the vicinity of [[Fermi energy]] are dominated by V-3d orbitals for $CsV_6Sb_6$ and $V_6Sb_4$, whereas the Sb-p orbitals have weak contributions. 
-- Shows linear band crossings that are close to [[Fermi energy]] along the high symmetry points. 
-- *The electronic structure of the bilayer compound is distinct from that of single layer [[AV3Sb5 family]] which are hallmarked by multiple Dirac crossings([[AV3Sb5 DFT]]) and saddle points near [[Fermi energy]]*
+- The DOS in the vicinity of [[Fermi level]] are dominated by V-3d orbitals for $CsV_6Sb_6$ and $V_6Sb_4$, whereas the Sb-p orbitals have weak contributions. 
+- Shows linear band crossings that are close to [[Fermi level]] along the high symmetry points. 
+- *The electronic structure of the bilayer compound is distinct from that of single layer [[AV3Sb5 family]] which are hallmarked by multiple Dirac crossings([[AV3Sb5 DFT]]) and saddle points near [[Fermi level]]*
 - Due to the three-fold rotational symmetry, there are three equivalent middle planes, and thus six type-II Dirac nodal lines that are symmetrically distributed in the BZ of $CsV_6Sb_6$.
 - Very weak SOC effect and hence Dirac nodal lines are intact. 
 

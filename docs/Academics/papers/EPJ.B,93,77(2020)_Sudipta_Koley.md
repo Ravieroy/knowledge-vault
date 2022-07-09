@@ -10,7 +10,7 @@ Tags: #CDW #superconductivity
 - Charge density waves([[CDW]])
 - [[Superconductivity]]
 - Transition metal dichalcogenides
--  Bogoliubov-de Gennes Theory ([[BdG]])
+-  Bogoliubov-de Gennes Theory ([[BdG Theory]])
 - [[DFT]]
 - [[DMFT]]
 - Disorder
@@ -25,7 +25,7 @@ By using real-space self-consistent Bogoliubov-de Gennes calculations and moment
 
 Large spectral weight transfer and absence of phonon signatures at typical energies in [[ARPES]] data, along with momentum-independent self-energy, are strong pointers to physics beyond(mean-field) single particle processes. 
 
-**In order to understand the competition, the problem of co-existing [[CDW]] and SC is taken, and a non-magnetic disorder is added to it. Two kinds of disorders are studied: random disorder and clusters of disordered regions of fixed strengths. Using [[BdG]] formulation, the evolution of SC and [[CDW]] is observed by Monte Carlo method. A [[DFT]] followed by multi-orbital [[DMFT]] calculations has been done.** 
+**In order to understand the competition, the problem of co-existing [[CDW]] and SC is taken, and a non-magnetic disorder is added to it. Two kinds of disorders are studied: random disorder and clusters of disordered regions of fixed strengths. Using [[BdG Theory]] formulation, the evolution of SC and [[CDW]] is observed by Monte Carlo method. A [[DFT]] followed by multi-orbital [[DMFT]] calculations has been done.** 
 
 #### Results from self-consistent BdG calculations 
 - Emergence of superconducting islands increases with increasing disorder even though the disorder is completely uncorrelated from site to site. 
@@ -48,7 +48,7 @@ Large spectral weight transfer and absence of phonon signatures at typical energ
 ![[FS_TaSe2_TaSes.png]]
 *[[Fermi surface]] 2H-TaSe2 and 2H-TaSeS*
 
-- The band diagram of 2H-TaSe2 shows strong $Ta-d_{z^2}$ character hybridized with Se-p in the two metallic bands crossing the [[Fermi energy]] due to two layers of TaSe2 coupled by van der Waals interaction. 
+- The band diagram of 2H-TaSe2 shows strong $Ta-d_{z^2}$ character hybridized with Se-p in the two metallic bands crossing the [[Fermi level]] due to two layers of TaSe2 coupled by van der Waals interaction. 
 - Similar features are observed for the doped TaSe2.
 - Six hole pockets are observed in the [[Fermi surface]] for both the structure. 
 

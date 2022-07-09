@@ -11,6 +11,11 @@ The in-plane anisotropy provides the potential to realize [[HP in Black Phosphor
 
 The natural optical anisotropy associated with van der Waals crystals, and the polar nature of many, should in principle offer a broad range of naturally occurring hyperbolic materials covering a very broad spectral range. Strong anisotropy in electron motion along the in-plane (metallic) and out-of-plane (insulating) layered materials can lead to hyperbolicity for specific frequency bands (graphite and magnesium diboride). 
 
+Related Links : 
+[[Plasma oscillation]]
+[[Surface Plasmons and Polaritons]]
+[[HP in Black Phosphorus]]
+
 References: 
 
 [^1]: : Poddubny, A., Iorsh, I., Belov, P. & Kivshar, Y. Hyperbolic metamaterials. Nat. Photon. 7, 948–957 (2013)

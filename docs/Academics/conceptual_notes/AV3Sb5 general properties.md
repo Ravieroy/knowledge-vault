@@ -32,7 +32,7 @@
 2. No long range order. (Neutron scattering measurements and Muon spin spectroscopy)
 3. Transition derives from charge [[Degree of freedom]]. 
 4. The transition is a CDW transition with $2 \times 2$ superlattice modulation.
-5. Energy gap opening around the [[Fermi energy]] of $\sim 50 meV$ which together with $2\times 2$ superlattice modulation disappears above $T_{CDW}$
+5. Energy gap opening around the [[Fermi level]] of $\sim 50 meV$ which together with $2\times 2$ superlattice modulation disappears above $T_{CDW}$
 6. Charge reversal across this gap. Hallmark of CDW ordering. 
 7. ARPES measurements on [[KV3Sb5]] suggest the importance of structural transition.
 ----
