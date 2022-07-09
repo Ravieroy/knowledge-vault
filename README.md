@@ -3,5 +3,3 @@ This repository contains the notes I have made using [Obsidian](https://obsidian
 
 This repository is a fork of [jobindj's](https://github.com/jobindj/obsidian-publish-mkdocs) GitHub repository. 
 
-
-![[LinuxStuffs_Graph_view.png]]
