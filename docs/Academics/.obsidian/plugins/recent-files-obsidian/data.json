@@ -1,144 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "PRB.92.161110_Pallab_Goswami",
-      "path": "papers/PRB.92.161110_Pallab_Goswami.md"
-    },
-    {
-      "basename": "AV3Sb5 general properties",
-      "path": "conceptual_notes/AV3Sb5 general properties.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "conceptual_notes/Homepage.md"
-    },
-    {
-      "basename": "ARPES",
-      "path": "conceptual_notes/ARPES.md"
-    },
-    {
-      "basename": "ARPES_schematics",
-      "path": "assets/ARPES_schematics.png"
-    },
-    {
-      "basename": "Weyl Basics",
-      "path": "conceptual_notes/Weyl Basics.md"
-    },
-    {
-      "basename": "WSM with broken T symmetry",
-      "path": "conceptual_notes/WSM with broken T symmetry.md"
-    },
-    {
-      "basename": "WSM with broken P symmetry",
-      "path": "conceptual_notes/WSM with broken P symmetry.md"
-    },
-    {
-      "basename": "Time reversal symmetry",
-      "path": "conceptual_notes/Time reversal symmetry.md"
-    },
-    {
-      "basename": "Tight-binding model",
-      "path": "conceptual_notes/Tight-binding model.md"
-    },
-    {
-      "basename": "Surface Plasmons and Polaritons",
-      "path": "conceptual_notes/Surface Plasmons and Polaritons.md"
-    },
-    {
-      "basename": "Superconductivity",
-      "path": "conceptual_notes/Superconductivity.md"
-    },
-    {
-      "basename": "Summary of work on Kagome",
-      "path": "conceptual_notes/Summary of work on Kagome.md"
-    },
-    {
-      "basename": "Quasi 2D Material",
-      "path": "conceptual_notes/Quasi 2D Material.md"
-    },
-    {
-      "basename": "Plasma oscillation",
-      "path": "conceptual_notes/Plasma oscillation.md"
-    },
-    {
-      "basename": "Photoelectron spectroscopy",
-      "path": "conceptual_notes/Photoelectron spectroscopy.md"
-    },
-    {
-      "basename": "Phase transition",
-      "path": "conceptual_notes/Phase transition.md"
-    },
-    {
-      "basename": "Phase diagram of AV3Sb5",
-      "path": "conceptual_notes/Phase diagram of AV3Sb5.md"
-    },
-    {
-      "basename": "Peierls Transition",
-      "path": "conceptual_notes/Peierls Transition.md"
-    },
-    {
-      "basename": "Pauli exclusion principle",
-      "path": "conceptual_notes/Pauli exclusion principle.md"
-    },
-    {
-      "basename": "Optical gyrotropy",
-      "path": "conceptual_notes/Optical gyrotropy.md"
-    },
-    {
-      "basename": "Nematicity",
-      "path": "conceptual_notes/Nematicity.md"
-    },
-    {
-      "basename": "Meissner effect",
-      "path": "conceptual_notes/Meissner effect.md"
-    },
-    {
-      "basename": "Literature_List",
-      "path": "conceptual_notes/Literature_List.md"
-    },
-    {
-      "basename": "KV3Sb5",
-      "path": "conceptual_notes/KV3Sb5.md"
-    },
-    {
-      "basename": "Kramers Theorem",
-      "path": "conceptual_notes/Kramers Theorem.md"
-    },
-    {
-      "basename": "Kagome metal",
-      "path": "conceptual_notes/Kagome metal.md"
-    },
-    {
-      "basename": "Kagome Geometry",
-      "path": "conceptual_notes/Kagome Geometry.md"
-    },
-    {
-      "basename": "Inversion symmetry breaking",
-      "path": "conceptual_notes/Inversion symmetry breaking.md"
-    },
-    {
-      "basename": "Inversion symmetry",
-      "path": "conceptual_notes/Inversion symmetry.md"
-    },
-    {
-      "basename": "Inverse photoemission spectroscopy",
-      "path": "conceptual_notes/Inverse photoemission spectroscopy.md"
-    },
-    {
-      "basename": "Instability",
-      "path": "conceptual_notes/Instability.md"
-    },
-    {
-      "basename": "IDEAS",
-      "path": "conceptual_notes/IDEAS.md"
-    },
-    {
-      "basename": "Hysteresis",
-      "path": "conceptual_notes/Hysteresis.md"
+      "basename": "academic_graph_view",
+      "path": "conceptual_notes/academic_graph_view.md"
     },
     {
       "basename": "Hyperbolic Plasmons (HP)",
@@ -149,56 +13,188 @@
       "path": "conceptual_notes/HP in Black Phosphorus.md"
     },
     {
-      "basename": "Helicity",
-      "path": "conceptual_notes/Helicity.md"
+      "basename": "Meissner effect",
+      "path": "conceptual_notes/Meissner effect.md"
     },
     {
-      "basename": "Hall effect",
-      "path": "conceptual_notes/Hall effect.md"
+      "basename": "Ferromagnetism",
+      "path": "conceptual_notes/Ferromagnetism.md"
     },
     {
-      "basename": "Geometric frustration",
-      "path": "conceptual_notes/Geometric frustration.md"
+      "basename": "Meissner_effect",
+      "path": "assets/Meissner_effect.png"
     },
     {
       "basename": "First order phase transition",
       "path": "conceptual_notes/First order phase transition.md"
     },
     {
-      "basename": "Ferromagnetic",
-      "path": "conceptual_notes/Ferromagnetic.md"
+      "basename": "Phase transition",
+      "path": "conceptual_notes/Phase transition.md"
     },
     {
-      "basename": "Fermi surface nesting",
-      "path": "conceptual_notes/Fermi surface nesting.md"
+      "basename": "Phase_Diagram",
+      "path": "assets/Phase_Diagram.png"
     },
     {
-      "basename": "Fermi surface",
-      "path": "conceptual_notes/Fermi surface.md"
+      "basename": "Inversion symmetry",
+      "path": "conceptual_notes/Inversion symmetry.md"
     },
     {
-      "basename": "Fermi pockets",
-      "path": "conceptual_notes/Fermi pockets.md"
-    },
-    {
-      "basename": "Fermi energy",
-      "path": "conceptual_notes/Fermi energy.md"
-    },
-    {
-      "basename": "Experimental signatures of CDW",
-      "path": "conceptual_notes/Experimental signatures of CDW.md"
+      "basename": "Specific heat",
+      "path": "conceptual_notes/Specific heat.md"
     },
     {
       "basename": "Electron-correlation effects",
       "path": "conceptual_notes/Electron-correlation effects.md"
     },
     {
+      "basename": "Hysteresis",
+      "path": "conceptual_notes/Hysteresis.md"
+    },
+    {
+      "basename": "Hysteresis",
+      "path": "assets/Hysteresis.png"
+    },
+    {
       "basename": "Dynamic chiral magnetic effect",
       "path": "conceptual_notes/Dynamic chiral magnetic effect.md"
     },
     {
+      "basename": "Kagome Geometry",
+      "path": "conceptual_notes/Kagome Geometry.md"
+    },
+    {
+      "basename": "AV3Sb5 family",
+      "path": "conceptual_notes/AV3Sb5 family.md"
+    },
+    {
+      "basename": "AV3Sb5 and AV6Sb6 comparison",
+      "path": "conceptual_notes/AV3Sb5 and AV6Sb6 comparison.md"
+    },
+    {
+      "basename": "Degree of freedom",
+      "path": "conceptual_notes/Degree of freedom.md"
+    },
+    {
+      "basename": "Vibrational_DOF_diatomic",
+      "path": "assets/Vibrational_DOF_diatomic.png"
+    },
+    {
+      "basename": "Rotational_DOF_diatomic",
+      "path": "assets/Rotational_DOF_diatomic.png"
+    },
+    {
+      "basename": "Translation_DOF_diatomic",
+      "path": "assets/Translation_DOF_diatomic.png"
+    },
+    {
+      "basename": "Resistivity",
+      "path": "conceptual_notes/Resistivity.md"
+    },
+    {
+      "basename": "T_dependence_rho_metal",
+      "path": "assets/T_dependence_rho_metal.png"
+    },
+    {
+      "basename": "Van-Hove singularity",
+      "path": "conceptual_notes/Van-Hove singularity.md"
+    },
+    {
+      "basename": "AV6Sb6 DFT",
+      "path": "conceptual_notes/AV6Sb6 DFT.md"
+    },
+    {
+      "basename": "VanHove_3D",
+      "path": "assets/VanHove_3D.png"
+    },
+    {
+      "basename": "equation",
+      "path": "templates/equation.md"
+    },
+    {
+      "basename": "Time-reversal invariant momentum (TRIM)",
+      "path": "conceptual_notes/Time-reversal invariant momentum (TRIM).md"
+    },
+    {
+      "basename": "Kramers Theorem",
+      "path": "conceptual_notes/Kramers Theorem.md"
+    },
+    {
+      "basename": "TRIM_2D_Square_Lattice",
+      "path": "assets/TRIM_2D_Square_Lattice.png"
+    },
+    {
       "basename": "DMFT",
-      "path": "conceptual_notes/DMFT.md"
+      "path": "papers/DMFT.md"
+    },
+    {
+      "basename": "EPJ.B,93,77(2020)_Sudipta_Koley",
+      "path": "papers/EPJ.B,93,77(2020)_Sudipta_Koley.md"
+    },
+    {
+      "basename": "AV3Sb5 band structure",
+      "path": "conceptual_notes/AV3Sb5 band structure.md"
+    },
+    {
+      "basename": "AV3Sb5 ARPES",
+      "path": "conceptual_notes/AV3Sb5 ARPES.md"
+    },
+    {
+      "basename": "DFT",
+      "path": "conceptual_notes/DFT.md"
+    },
+    {
+      "basename": "Density of states",
+      "path": "conceptual_notes/Density of states.md"
+    },
+    {
+      "basename": "DOS",
+      "path": "assets/DOS.png"
+    },
+    {
+      "basename": "Pauli exclusion principle",
+      "path": "conceptual_notes/Pauli exclusion principle.md"
+    },
+    {
+      "basename": "Pauli_exclusion_example_2",
+      "path": "assets/Pauli_exclusion_example_2.png"
+    },
+    {
+      "basename": "Pauli_exclusion_example",
+      "path": "assets/Pauli_exclusion_example.png"
+    },
+    {
+      "basename": "Pauli_Exclusion_Principle",
+      "path": "assets/Pauli_Exclusion_Principle.png"
+    },
+    {
+      "basename": "Pauli_Exclusion_Principle .excalidraw",
+      "path": "Excalidraw/Pauli_Exclusion_Principle .excalidraw.md"
+    },
+    {
+      "basename": "Fermi energy",
+      "path": "conceptual_notes/Fermi energy.md"
+    },
+    {
+      "basename": "Fermi level",
+      "path": "conceptual_notes/Fermi level.md"
+    },
+    {
+      "basename": "Fermi_level",
+      "path": "assets/Fermi_level.png"
+    },
+    {
+      "basename": "BdG Theory",
+      "path": "conceptual_notes/BdG Theory.md"
+    },
+    {
+      "basename": "PRB.92.161110_Pallab_Goswami",
+      "path": "papers/PRB.92.161110_Pallab_Goswami.md"
+    },
+    {
+      "basename": "WSM with broken T symmetry",
+      "path": "conceptual_notes/WSM with broken T symmetry.md"
     }
   ],
   "omittedPaths": [],

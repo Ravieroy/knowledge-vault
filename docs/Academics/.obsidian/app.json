@@ -3,7 +3,7 @@
   "livePreview": true,
   "promptDelete": false,
   "attachmentFolderPath": "assets",
-  "fileSortOrder": "alphabetical",
+  "fileSortOrder": "byModifiedTime",
   "spellcheckDictionary": [
     "Tags",
     "Weyl semimetals",
@@ -132,7 +132,13 @@
     "quasiparticle",
     "Hyperbolicity",
     "hyperbolicity",
-    " diborid"
+    " diborid",
+    "logarithmically",
+    "extremum",
+    "integrand",
+    "ohm-metre",
+    "resistivities",
+    "monoatomic"
   ],
   "pdfExportSettings": {
     "pageSize": "A4",

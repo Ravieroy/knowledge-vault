@@ -4,7 +4,7 @@ The Linux related stuffs are in the folder `LinuxStuffs`, and a curated link to 
 
 Graph View from my Obsidian Vault
 
-![[LinuxStuffs_Graph_view.png]]
+![[docs/Misc/LinuxStuffs_Graph_view.png]]
 
 | Applications                      | Basics                                | Utilities                          | Misc                                  |     |
 | --------------------------------- | ------------------------------------- | ---------------------------------- | ------------------------------------- | --- |
@@ -12,9 +12,10 @@ Graph View from my Obsidian Vault
 | [[lsd]]                           | [[LibreOffice_Install]]               | [[Apple_connect]]                  | [[Ubuntu touch experience]]           |     |
 | [[Vim]]                           | [[oh-my-zsh installation]]            | [[Password feedback in Terminal]]  | [[Flash Ubuntu Touch]]                |     |
 | [[zsh]]                           | [[PPA_Remove]]                        | [[Command line tools]]             | [[Difference between Vim and Neovim]] |     |
-| [[Neovim]]                        | [[Manage user profiles]]              | [[Setting up Flatpak]]             |                                       |     |
+| [[Neovim]]                        | [[Manage user profiles]]              | [[Setting up Flatpak]]             | [[OpenOffice_LibreOffice]]                                      |     |
 | [[Dolphin installation on GNOME]] | [[Uninstall applications]]            | [[Font spacing bug in Konsole]]    | [[vipw]]                              |     |
-|                                   | [[Fonts installation]]                |                                    | [[visudo]]                                      |     |
+|                                   | [[Fonts installation]]                |                                    | [[visudo]]                            |     |
+|                                   |                                       |                                    |             |     |
 
 ## Incomplete/Empty Notes
 | Column 1     | Column 2                | Column 3         | Column 4                |
@@ -23,4 +24,4 @@ Graph View from my Obsidian Vault
 | [[FOSS]]     | [[fzf]]                 | [[gedit]]        | [[Install Vim plugins]] |
 | [[jump]]     | [[Linux distros]]       | [[lxappearance]] | [[nano]]                |
 | [[nnn]]      | [[Package manager]]     | [[ripgrep]]      | [[Set an alias]]        |
-| [[Terminal]] | [[Useful Vim commands]] |                  |                         | 
+| [[Terminal]] | [[Useful Vim commands]] | [[Synaptic]]     |                         |

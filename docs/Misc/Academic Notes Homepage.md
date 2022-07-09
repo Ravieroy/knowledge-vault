@@ -8,7 +8,7 @@ Graph View (from my Obsidian vault)
 ## Alphabetical List 
 | A                                | B                     | C                             | D                                  | E                                  |
 | -------------------------------- | --------------------- | ----------------------------- | ---------------------------------- | ---------------------------------- |
-| [[Accidental degeneracy]]        | [[BdG]]               | [[CDW]]                       | [[Degree of freedom]]              | [[Electron-correlation effects]]   |
+| [[Accidental degeneracy]]        | [[BdG Theory]]               | [[CDW]]                       | [[Degree of freedom]]              | [[Electron-correlation effects]]   |
 | [[Anomalous Hall effect]]        | [[Behavior near CDW]] | [[CDW in NbSe3]]              | [[Density of states]]              | [[Experimental signatures of CDW]] |
 | [[ARPES]]                        | [[Berry curvature]]   | [[Chiral Anomaly]]            | [[DFT]]                            |                                    |
 | [[AV3Sb5 and AV6Sb6 comparison]] |                       | [[Chiral Chemical Potential]] | [[Dielectric response]]            |                                    |
@@ -25,13 +25,13 @@ Graph View (from my Obsidian vault)
 
 | F                                | G                         | H                            | I                               | J   |
 | -------------------------------- | ------------------------- | ---------------------------- | ------------------------------- | --- |
-| [[Fermi energy]]                 | [[Geometric frustration]] | [[Hall effect]]              | [[IDEAS]]                       |     |
+| [[Fermi level]]                 | [[Geometric frustration]] | [[Hall effect]]              | [[IDEAS]]                       |     |
 | [[Fermi pockets]]                |                           | [[Helicity]]                 | [[Instability]]                 |     |
 | [[Fermi surface]]                |                           | [[HP in Black Phosphorus]]   | [[Inversion symmetry]]          |     |
 | [[Fermi surface nesting]]        |                           | [[Hyperbolic Plasmons (HP)]] | [[Inversion symmetry breaking]] |     |
-| [[Ferromagnetic]]                |                           | [[Hysteresis]]               | [[Inverse photoemission spectroscopy]]                                |     |
+| [[Ferromagnetism]]                |                           | [[Hysteresis]]               | [[Inverse photoemission spectroscopy]]                                |     |
 | [[First order phase transition]] |                           |                              |                                 |     |
-|                                  |                           |                              |                                 |     |
+| [[Fermi energy]]                                 |                           |                              |                                 |     |
 
 ---
 
@@ -47,7 +47,7 @@ Graph View (from my Obsidian vault)
 | P                             | Q                     | R                      | S                                   | T                                           |
 | ----------------------------- | --------------------- | ---------------------- | ----------------------------------- | ------------------------------------------- |
 | [[Pauli exclusion principle]] | [[Quasi 2D Material]] | [[Reciprocal lattice]] | [[Second-order transition]]         | [[Time reversal symmetry]]                  |
-| [[Peierls Transition]]        |                       | [[Resistivity]]        | [[Space Group]]                     | [[Time-reversal invariant momentum (TRIM)]] |
+| [[Peierls Transition]]        |                       | [[Resistivity]]        | [[Surface Plasmons and Polaritons]]                      | [[Time-reversal invariant momentum (TRIM)]] |
 | [[Phase diagram of AV3Sb5]]   |                       |                        | [[Specific heat]]                   | [[Topology]]                                |
 | [[Phase transition]]          |                       |                        | [[STM]]                             | [[Types of CDW]]                            |
 | [[Plasma oscillation]]        |                       |                        | [[Strong coupling approach to CDW]] |                                             |
@@ -57,13 +57,14 @@ Graph View (from my Obsidian vault)
 |                               |                       |                        |                                     |                                             |
 
 ---
-| U                        | V         | W                              | X   | Y   | Z   |
-| ------------------------ | --------- | ------------------------------ | --- | --- | --- |
-| ---                      | [[V6Sb4]] | [[Weyl Basics]]                |     |     |     |
-| [[Van-Hove singularity]] |           | [[Weyl fermions]]              |     |     |     |
-|                          |           | [[Weyl semimetal]]             |     |     |     |
-|                          |           | [[WSM with broken T symmetry]] |     |     |     |
-|                          |           | [[WSM with broken P symmetry]]                               |     |     |     |
+
+| U   | V         | W                              | X   | Y   | Z   |
+| --- | --------- | ------------------------------ | --- | --- | --- |
+|     | [[Van-Hove singularity]]| [[Weyl Basics]]                |     |     |     |
+|     |           | [[Weyl fermions]]              |     |     |     |
+|     |           | [[Weyl semimetal]]             |     |     |     |
+|     |           | [[WSM with broken T symmetry]] |     |     |     |
+|     |           | [[WSM with broken P symmetry]] |     |     |     |
 
 ---
 
@@ -73,7 +74,7 @@ Graph View (from my Obsidian vault)
 | [[Accidental degeneracy]]          | [[AV3Sb5 and AV6Sb6 comparison]] | [[Optical gyrotropy]]                       | [[Strong coupling approach to CDW]] |
 | [[Anomalous Hall effect]]          | [[AV3Sb5 anomalies]]             | [[Time reversal symmetry]]                  | [[Surface Plasmons and Polaritons]] |
 | [[ARPES]]                          | [[AV3Sb5 band structure]]        | [[Time-reversal invariant momentum (TRIM)]] | [[Types of CDW]]                    |
-| [[BdG]]                            | [[AV3Sb5 DFT]]                   | [[Topology]]                                |                                     |
+| [[BdG Theory]]                            | [[AV3Sb5 DFT]]                   | [[Topology]]                                |                                     |
 | [[Behavior near CDW]]              | [[AV3Sb5 family]]                | [[Weyl Basics]]                             |                                     |
 | [[Berry curvature]]                | [[AV3Sb5 general properties]]    | [[Weyl fermions]]                           |                                     |
 | [[CDW]]                            | [[AV6Sb6 family]]                | [[Weyl semimetal]]                          |                                     |
@@ -87,14 +88,14 @@ Graph View (from my Obsidian vault)
 | [[DFT]]                            | [[Literature_List]]              |                                             |                                     |
 | [[Dielectric response]]            | [[Phase diagram of AV3Sb5]]      |                                             |                                     |
 | [[DMFT]]                           | [[Summary of work on Kagome]]    |                                             |                                     |
-| [[Dynamic chiral magnetic effect]] | [[V6Sb4]]                        |                                             |                                     |
+| [[Dynamic chiral magnetic effect]] |                         |                                             |                                     |
 | [[Electron-correlation effects]]   |                                  |                                             |                                     |
 | [[Experimental signatures of CDW]] |                                  |                                             |                                     |
-| [[Fermi energy]]                   |                                  |                                             |                                     |
+| [[Fermi level]]                   |                                  |                                             |                                     |
 | [[Fermi pockets]]                  |                                  |                                             |                                     |
 | [[Fermi surface]]                  |                                  |                                             |                                     |
 | [[Fermi surface nesting]]          |                                  |                                             |                                     |
-| [[Ferromagnetic]]                  |                                  |                                             |                                     |
+| [[Ferromagnetism]]                  |                                  |                                             |                                     |
 | [[First order phase transition]]   |                                  |                                             |                                     |
 | [[Geometric frustration]]          |                                  |                                             |                                     |
 | [[Hall effect]]                    |                                  |                                             |                                     |
@@ -116,7 +117,7 @@ Graph View (from my Obsidian vault)
 | [[Reciprocal lattice]]             |                                  |                                             |                                     |
 | [[Resistivity]]                    |                                  |                                             |                                     |
 | [[Second-order transition]]        |                                  |                                             |                                     |
-| [[Space Group]]                    |                                  |                                             |                                     |
+|                     |                                  |                                             |                                     |
 | [[Specific heat]]                  |                                  |                                             |                                     |
 | [[STM]]                            |                                  |                                             |                                     |
 | [[Superconductivity]]              |                                  |                                             |                                     |
