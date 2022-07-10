@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "HP in Black Phosphorus",
+      "path": "conceptual_notes/HP in Black Phosphorus.md"
+    },
+    {
+      "basename": "Hyperbolic Plasmons (HP)",
+      "path": "conceptual_notes/Hyperbolic Plasmons (HP).md"
+    },
+    {
       "basename": "Fermi level",
       "path": "conceptual_notes/Fermi level.md"
     },
@@ -51,14 +59,6 @@
     {
       "basename": "Meissner effect",
       "path": "conceptual_notes/Meissner effect.md"
-    },
-    {
-      "basename": "HP in Black Phosphorus",
-      "path": "conceptual_notes/HP in Black Phosphorus.md"
-    },
-    {
-      "basename": "Hyperbolic Plasmons (HP)",
-      "path": "conceptual_notes/Hyperbolic Plasmons (HP).md"
     },
     {
       "basename": "Density of states",

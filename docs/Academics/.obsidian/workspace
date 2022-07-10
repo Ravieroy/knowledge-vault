@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "conceptual_notes/Fermi level.md",
+            "file": "conceptual_notes/HP in Black Phosphorus.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conceptual_notes/Fermi level.md",
+                "file": "conceptual_notes/HP in Black Phosphorus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conceptual_notes/Fermi level.md",
+                "file": "conceptual_notes/HP in Black Phosphorus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conceptual_notes/Fermi level.md"
+                "file": "conceptual_notes/HP in Black Phosphorus.md"
               }
             }
           },
@@ -183,6 +183,8 @@
   },
   "active": "8bed21e7f4ab3512",
   "lastOpenFiles": [
+    "conceptual_notes/HP in Black Phosphorus.md",
+    "conceptual_notes/Hyperbolic Plasmons (HP).md",
     "conceptual_notes/Fermi level.md",
     "conceptual_notes/Fermi energy.md",
     "conceptual_notes/CDW.md",
@@ -190,8 +192,6 @@
     "conceptual_notes/Dynamic chiral magnetic effect.md",
     "conceptual_notes/AV3Sb5 and AV6Sb6 comparison.md",
     "conceptual_notes/Ferromagnetism.md",
-    "conceptual_notes/Hysteresis.md",
-    "conceptual_notes/Electron-correlation effects.md",
-    "conceptual_notes/Specific heat.md"
+    "conceptual_notes/Hysteresis.md"
   ]
 }

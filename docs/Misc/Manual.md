@@ -14,7 +14,7 @@
 	I am research scholar at Indian Institute of Technology, Kharagpur, working on Condensed Matter Physics under Prof. Arghya Taraphder. You can find more about me and my work on my [GitHub page](https://ravieroy.github.io/). 
 
 !!! note " Can I use/fork this?"
-	I believe in sharing of knowledge without restriction, and hence all my projects are under MIT license. Don't know what that means? It's okay, anyone is free to do whatever they want with the content from my GitHub account. A detailed instruction to fork this repository will be updated soon.
+	I believe in sharing of knowledge without restriction, and hence all my projects are under MIT license. Don't know what that means? It's okay, anyone is free to do whatever they want with the content from my GitHub account. A detailed instruction to [[Forking this vault]] is also made. It will help you set up your own vault and even build it locally. 
 
 !!! warning
 	These notes are still being made and hence a lot of them would be empty for now. The graph view in locally in my Obsidian vault looks like this. 

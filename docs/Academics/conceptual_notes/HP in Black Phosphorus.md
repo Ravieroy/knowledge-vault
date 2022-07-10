@@ -16,10 +16,5 @@
 
 ---
 Related Links :
-[[HP in Black Phosphorus]]
-[[Surface Plasmons and Polaritons]]
-[[Plasma oscillation]]
-
-
-
-
+- [[Surface Plasmons and Polaritons]]
+- [[Plasma oscillation]]
