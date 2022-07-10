@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "AV3Sb5 band structure",
+      "path": "conceptual_notes/AV3Sb5 band structure.md"
+    },
+    {
+      "basename": "AV3Sb5 ARPES",
+      "path": "conceptual_notes/AV3Sb5 ARPES.md"
+    },
+    {
       "basename": "HP in Black Phosphorus",
       "path": "conceptual_notes/HP in Black Phosphorus.md"
     },
@@ -159,14 +167,6 @@
     {
       "basename": "EPJ.B,93,77(2020)_Sudipta_Koley",
       "path": "papers/EPJ.B,93,77(2020)_Sudipta_Koley.md"
-    },
-    {
-      "basename": "AV3Sb5 band structure",
-      "path": "conceptual_notes/AV3Sb5 band structure.md"
-    },
-    {
-      "basename": "AV3Sb5 ARPES",
-      "path": "conceptual_notes/AV3Sb5 ARPES.md"
     },
     {
       "basename": "DFT",
