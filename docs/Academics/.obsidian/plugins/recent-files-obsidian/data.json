@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Fermi level",
+      "path": "conceptual_notes/Fermi level.md"
+    },
+    {
+      "basename": "Fermi energy",
+      "path": "conceptual_notes/Fermi energy.md"
+    },
+    {
       "basename": "AV3Sb5 band structure",
       "path": "conceptual_notes/AV3Sb5 band structure.md"
     },
@@ -15,14 +23,6 @@
     {
       "basename": "Hyperbolic Plasmons (HP)",
       "path": "conceptual_notes/Hyperbolic Plasmons (HP).md"
-    },
-    {
-      "basename": "Fermi level",
-      "path": "conceptual_notes/Fermi level.md"
-    },
-    {
-      "basename": "Fermi energy",
-      "path": "conceptual_notes/Fermi energy.md"
     },
     {
       "basename": "CDW",
