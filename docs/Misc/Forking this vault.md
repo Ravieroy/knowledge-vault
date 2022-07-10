@@ -50,8 +50,9 @@ In order to be able to build your site, some Python dependencies are needed. You
 pip install -r requirements.txt
 ```
 
- !!! note "Removing the old commits"
-	 A way of doing so is removing the _.git_ folder and re-initializing the repository. Within the repository directory, do the following steps one by one.
+!!! note "Removing the old commits"
+	A way of doing so is removing the _.git_ folder and re-initializing the repository. Within the repository directory, do the following steps one by one.
+
 
 ```bash
 rm -rf .git
