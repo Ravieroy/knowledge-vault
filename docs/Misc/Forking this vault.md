@@ -70,4 +70,18 @@ mkdocs serve
 ```
 Then you will get a prompt in your terminal saying your website is hosted at `127.0.0.1:8000/` or something like this. You can open this link in your browser and your website will be visible there. You can see the changes to your website quickly here. 
 
+**Customizing your website**
+
+For this, we will edit the `mkdocs.yml` file. Since we will be making changes a lot, start the local build of your website and then make the changes. Saving the changes will build your website in a couple of seconds. Finally, when you are satisfied, you can push the changes to GitHub. Most of the fields are self-explanatory, and hence I will explain only a few of them. 
+
+The section on `features` is the one you can play with while building locally. Uncomment the features you want to see or remove. For example, `navigation.tabs` will create a tabbed layout like a browser. If you do not like it, just comment it out. The section on `palette` can also be configured to change the look of the website. You can change the colors for light/dark mode here by changing the `primary` and `accent` subsections.  The features of Markdown like highlighting using (=), underlining using a caret(^) is set up in `markdown_extensions` section. Finally, the last section on `extra` can be used to set up social media links. You should definitely edit this part. 
+
+!!! tip
+	You should definitely checkout [Getting started - Material for MkDocs](https://squidfunk.github.io/mkdocs-material/getting-started/) for features and stuffs. 
+
+
+
+
+
+
 
