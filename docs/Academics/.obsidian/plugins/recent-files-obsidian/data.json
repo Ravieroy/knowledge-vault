@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "AV3Sb5 ARPES",
+      "path": "conceptual_notes/AV3Sb5 ARPES.md"
+    },
+    {
+      "basename": "ARPES",
+      "path": "conceptual_notes/ARPES.md"
+    },
+    {
       "basename": "Fermi level",
       "path": "conceptual_notes/Fermi level.md"
     },
     {
       "basename": "Fermi energy",
       "path": "conceptual_notes/Fermi energy.md"
-    },
-    {
-      "basename": "AV3Sb5 ARPES",
-      "path": "conceptual_notes/AV3Sb5 ARPES.md"
     },
     {
       "basename": "Band_dispersion_T_CDW",
@@ -195,10 +199,6 @@
     {
       "basename": "Pauli_Exclusion_Principle",
       "path": "assets/Pauli_Exclusion_Principle.png"
-    },
-    {
-      "basename": "Pauli_Exclusion_Principle .excalidraw",
-      "path": "Excalidraw/Pauli_Exclusion_Principle .excalidraw.md"
     }
   ],
   "omittedPaths": [],

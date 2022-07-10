@@ -2,6 +2,10 @@
 ---
 ## ARPES study for KV3Sb5
 Ref.  [Three-dimensional energy gap and origin of charge-density wave in kagome superconductor KV3Sb5 | Communications Materials](https://www.nature.com/articles/s43246-022-00255-1)
+
+!!! abstract
+	Kagome lattices offer a fertile ground to explore exotic quantum phenomena associated with electron correlation and band topology. The recent discovery of superconductivity coexisting with charge-density wave (CDW) in the kagome metals $KV_3Sb_5$, $RbV_3Sb_5$, and $CsV_3Sb_5$ suggests an intriguing entanglement of electronic order and superconductivity. However, the microscopic origin of CDW, a key to understanding the superconducting mechanism and its possible topological nature, remains elusive. Here, we report angle-resolved photoemission spectroscopy of $KV_3Sb_5$ and demonstrate a substantial reconstruction of Fermi surface in the CDW state that accompanies the formation of small three-dimensional pockets. The CDW gap exhibits a periodicity of undistorted Brillouin zone along the out-of-plane wave vector, signifying a dominant role of the in-plane inter-saddle-point scattering to the mechanism of CDW. The characteristics of experimental band dispersion can be captured by first-principles calculations with the inverse star-of-David structural distortion. The present result indicates a direct link between the low-energy excitations and CDW, and puts constraints on the microscopic theory of superconductivity in alkali-metal kagome lattices.
+
 ### Fermi surface
 ![[KV3Sb5_ARPES_EXP.png]]
 *Figure 1*
@@ -32,14 +36,10 @@ Ref.  [Three-dimensional energy gap and origin of charge-density wave in kagome 
 | ------------------------------- | --------------- |
 | ![[ARPES_KV3Sb5_T_ls_TCDW.png]] | ![[Band_dispersion_T_CDW.png]]                |
 
-
-
-
-
-
+Figure (h, i) shows a comparison of the ARPES intensity along a k cut indicated by a red dashed line in Fig. (e) which traverses the reconstructed [[Fermi surface]] at T = 20 K. One can recognize an obvious difference in the intensity distribution between T = 120 K and 20 K in Fig. (h, i). A new holelike band which crosses $E_F$ (indicated by blue circles and lines) appears at T = 20 K in the k region where FS is absent at T = 120 K.
 
 #### Second derivative ARPES 
-- Plot of second-derivative ARPES([[ARPES#Second derivative ARPES]]) intensity at T = 20 K in Fig. 1f signifies that the discontinuous intensity distribution (Fig. below) is accompanied by the emergence of a small pocket-like feature near the K point (white dotted ellipse). This pocket is associated with the CDW because it is absent at T = 120 K (Fig. 1d). 
+- Plot of [[ARPES#Second derivative ARPES | second-derivative ARPES]] intensity at T = 20 K in Fig. 1f signifies that the discontinuous intensity distribution (Fig. below) is accompanied by the emergence of a small pocket-like feature near the K point (white dotted ellipse). This pocket is associated with the CDW because it is absent at T = 120 K (Fig. 1d). 
 
 | T = 120K > ($T_{CDW}$)          | T = 20K (<$T_{CDW}$)            |
 | ------------------------------- | ------------------------------- |
@@ -47,6 +47,16 @@ Ref.  [Three-dimensional energy gap and origin of charge-density wave in kagome 
 |                                 |                                 |
 
 ---
+
+Ref. [Electronic nature of charge density wave and electron-phonon coupling in kagome superconductor KV3Sb5 | Nature Communications](https://www.nature.com/articles/s41467-021-27946-6)
+
+!!! abstract
+	The Kagome superconductors $AV_3Sb_5$ (A = K, Rb, Cs) have received enormous attention due to their nontrivial topological electronic structure, anomalous physical properties and superconductivity. Unconventional charge density wave (CDW) has been detected in AV3Sb5. High-precision electronic structure determination is essential to understand its origin. Here we unveil electronic nature of the CDW phase in our high-resolution angle-resolved photoemission measurements on $KV_3Sb_5$. We have observed CDW-induced Fermi surface reconstruction and the associated band folding. The CDW-induced band splitting and the associated gap opening have been revealed at the boundary of the pristine and reconstructed Brillouin zones. The Fermi surface- and momentum-dependent CDW gap is measured and the strongly anisotropic CDW gap is observed for all the V-derived Fermi surface. In particular, we have observed signatures of the electron-phonon coupling in KV3Sb5. These results provide key insights in understanding the nature of the CDW state and its interplay with superconductivity in AV3Sb5 superconductors.
+
+### Fermi Surface
+
+
+
 
 ## ARPES study for CsV3Sb5
 Ref. [Phys. Rev. Lett. 125, 247002 (2020) – CsV3Sb5: A Z2 Topological Kagome Metal with a Superconducting Ground State](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.247002)
