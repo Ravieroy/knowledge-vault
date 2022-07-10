@@ -9,9 +9,13 @@ If you want to create your own page using my template, follow the next steps. Fo
 
 ### Quick start 
 **Step 1 :** On GitHub, click the "fork" button on the top right of this repository's main page. 
+
 **Step 2 :** **Give a name** to your repository. By default, your notes will be published at `<https://username.github.io/repo-name/>`
+
 **Step 3 :** Clone the forked repository to your local machine using the command `git clone repo_url`
+
 **Step 4 :** Go to `Settings > Pages` and select the **Source** as your `gh-pages` branch.
+
 
 ![[gh-pages.png]]
 
@@ -29,7 +33,7 @@ There are several files that contain references to this repository's name and UR
 	We will make the changes locally and then push the changes to GitHub, but remember that, you can do everything from the website as well. 
 
 1. **Enter into your newly forked repository, where you should see the similar folder structure as in this repository now.**
-	1. `docs :` This will contain the folders which contains your notes in Markdown format, which will then appear on your website. For example, I have two folders which `Academics` and `LinuxStuffs` which has notes that you see on the website. ==Put your own notes after removing thing related to my website==
+	1. `docs :` This will contain the folders which contains your notes in Markdown format, which will then appear on your website. For example, I have two folders which `Academics` and `LinuxStuffs` which has notes that you see on the website. ==Put your own notes after removing things related to my website==
 	2. `index.md :` This is stored in `docs` folder, and it is your homepage. Edit it according to your choice. 
 	3. `javascripts :` ==Do not delete this folder== as it contains the code required for LaTeX support on the website
 	4. `Misc :` This folder can be deleted as it is catering to my workflow.
@@ -37,6 +41,7 @@ There are several files that contain references to this repository's name and UR
 	6. `mkdocs.yml :` This is the most important file for this website, and it contains everything needed to customize and build the mkdocs pages. Try to not tamper with options which you might feel uncomfortable with. Having said that, we will edit this file for customizations later. 
 	7. `README.md :` This is the README file for this repository. Edit it accordingly. 
 	8. `requirements.txt :` This file contains all the dependencies required to build the website locally. You will need Python and pip installed in your system.
+
 
 2. **Build website locally before deployment** 
 
@@ -46,8 +51,7 @@ pip install -r requirements.txt
 ```
 
  !!! note "Removing the old commits"
-
-A way of doing so is removing the _.git_ folder and re-initializing the repository. Within the repository directory, do the following steps one by one.
+	 A way of doing so is removing the _.git_ folder and re-initializing the repository. Within the repository directory, do the following steps one by one.
 
 ```bash
 rm -rf .git
