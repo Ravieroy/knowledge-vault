@@ -9,12 +9,16 @@
       "path": "conceptual_notes/Fermi energy.md"
     },
     {
-      "basename": "AV3Sb5 band structure",
-      "path": "conceptual_notes/AV3Sb5 band structure.md"
-    },
-    {
       "basename": "AV3Sb5 ARPES",
       "path": "conceptual_notes/AV3Sb5 ARPES.md"
+    },
+    {
+      "basename": "Band_dispersion_T_CDW",
+      "path": "assets/Band_dispersion_T_CDW.png"
+    },
+    {
+      "basename": "AV3Sb5 band structure",
+      "path": "conceptual_notes/AV3Sb5 band structure.md"
     },
     {
       "basename": "HP in Black Phosphorus",

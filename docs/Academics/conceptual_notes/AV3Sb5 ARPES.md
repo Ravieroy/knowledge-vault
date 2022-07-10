@@ -27,6 +27,16 @@ Ref.  [Three-dimensional energy gap and origin of charge-density wave in kagome 
 | ------------------------------- | -------------------- |
 | ![[ARPES_KV3Sb5_T_gr_TCDW.png]] | ![[ARPES_KV3Sb5_T_ls_TCDW.png]]                     |
 
+#### Band dispersion across $T_{CDW}$
+| T =20K(<T_{CDW})                | Band dispersion |
+| ------------------------------- | --------------- |
+| ![[ARPES_KV3Sb5_T_ls_TCDW.png]] | ![[Band_dispersion_T_CDW.png]]                |
+
+
+
+
+
+
 
 #### Second derivative ARPES 
 - Plot of second-derivative ARPES([[ARPES#Second derivative ARPES]]) intensity at T = 20 K in Fig. 1f signifies that the discontinuous intensity distribution (Fig. below) is accompanied by the emergence of a small pocket-like feature near the K point (white dotted ellipse). This pocket is associated with the CDW because it is absent at T = 120 K (Fig. 1d). 
