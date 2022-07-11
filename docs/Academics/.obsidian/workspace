@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "conceptual_notes/AV3Sb5 ARPES.md",
+            "file": "conceptual_notes/Behavior near CDW.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "conceptual_notes/Strong coupling approach to CDW.md",
+            "file": "papers/PRB.92.161110_Pallab_Goswami.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -30,12 +30,12 @@
         }
       },
       {
-        "id": "f6b93d97b6e8bfc2",
+        "id": "a5d92bb45c93846f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "conceptual_notes/Fermi energy.md",
+            "file": "templates/Paper_Template.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -97,7 +97,7 @@
       {
         "id": "cc8cd6daf0184f37",
         "type": "tabs",
-        "dimension": 27.300613496932513,
+        "dimension": 41.717791411042946,
         "children": [
           {
             "id": "a21503f2b2220eb4",
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conceptual_notes/AV3Sb5 ARPES.md",
+                "file": "papers/PRB.92.161110_Pallab_Goswami.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
       {
         "id": "bd7aa9ca83de3944",
         "type": "tabs",
-        "dimension": 72.69938650306749,
+        "dimension": 58.282208588957054,
         "children": [
           {
             "id": "5bed46d6dd29d977",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conceptual_notes/AV3Sb5 ARPES.md",
+                "file": "papers/PRB.92.161110_Pallab_Goswami.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conceptual_notes/AV3Sb5 ARPES.md"
+                "file": "papers/PRB.92.161110_Pallab_Goswami.md"
               }
             }
           },
@@ -206,17 +206,17 @@
     "direction": "horizontal",
     "width": 373
   },
-  "active": "8bed21e7f4ab3512",
+  "active": "ab1f4055e77f7239",
   "lastOpenFiles": [
-    "conceptual_notes/AV3Sb5 ARPES.md",
-    "assets/EPC_BS_self_energy.png",
-    "assets/BS_EPC_Luo.png",
+    "papers/PRB.92.161110_Pallab_Goswami.md",
+    "templates/Paper_Template.md",
+    "conceptual_notes/Behavior near CDW.md",
+    "papers/Weyl points ISB.md",
+    "papers/Nat.Comm.13, 2773_M_Shi.md",
+    "papers/EPJ.B,93,77(2020)_Sudipta_Koley.md",
+    "conceptual_notes/CDW.md",
     "conceptual_notes/Strong coupling approach to CDW.md",
-    "templates/side_by_side.md",
-    "assets/FS_reconstructed_Luo.png",
-    "assets/FS_reconstruction_Luo.png",
-    "assets/Luo_KV3Sb5_ARPES.png",
-    "conceptual_notes/ARPES.md",
-    "conceptual_notes/Fermi level.md"
+    "conceptual_notes/Types of CDW.md",
+    "conceptual_notes/AV3Sb5 ARPES.md"
   ]
 }

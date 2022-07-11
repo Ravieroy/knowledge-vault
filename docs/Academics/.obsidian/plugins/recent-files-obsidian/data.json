@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "PRB.92.161110_Pallab_Goswami",
+      "path": "papers/PRB.92.161110_Pallab_Goswami.md"
+    },
+    {
+      "basename": "Paper_Template",
+      "path": "templates/Paper_Template.md"
+    },
+    {
+      "basename": "Behavior near CDW",
+      "path": "conceptual_notes/Behavior near CDW.md"
+    },
+    {
+      "basename": "Weyl points ISB",
+      "path": "papers/Weyl points ISB.md"
+    },
+    {
+      "basename": "Nat.Comm.13, 2773_M_Shi",
+      "path": "papers/Nat.Comm.13, 2773_M_Shi.md"
+    },
+    {
+      "basename": "EPJ.B,93,77(2020)_Sudipta_Koley",
+      "path": "papers/EPJ.B,93,77(2020)_Sudipta_Koley.md"
+    },
+    {
+      "basename": "CDW",
+      "path": "conceptual_notes/CDW.md"
+    },
+    {
+      "basename": "Strong coupling approach to CDW",
+      "path": "conceptual_notes/Strong coupling approach to CDW.md"
+    },
+    {
+      "basename": "Types of CDW",
+      "path": "conceptual_notes/Types of CDW.md"
+    },
+    {
       "basename": "AV3Sb5 ARPES",
       "path": "conceptual_notes/AV3Sb5 ARPES.md"
     },
@@ -11,10 +47,6 @@
     {
       "basename": "BS_EPC_Luo",
       "path": "assets/BS_EPC_Luo.png"
-    },
-    {
-      "basename": "Strong coupling approach to CDW",
-      "path": "conceptual_notes/Strong coupling approach to CDW.md"
     },
     {
       "basename": "side_by_side",
@@ -59,10 +91,6 @@
     {
       "basename": "Hyperbolic Plasmons (HP)",
       "path": "conceptual_notes/Hyperbolic Plasmons (HP).md"
-    },
-    {
-      "basename": "CDW",
-      "path": "conceptual_notes/CDW.md"
     },
     {
       "basename": "Dynamic chiral magnetic effect",
@@ -171,34 +199,6 @@
     {
       "basename": "Resistivity",
       "path": "conceptual_notes/Resistivity.md"
-    },
-    {
-      "basename": "T_dependence_rho_metal",
-      "path": "assets/T_dependence_rho_metal.png"
-    },
-    {
-      "basename": "AV6Sb6 DFT",
-      "path": "conceptual_notes/AV6Sb6 DFT.md"
-    },
-    {
-      "basename": "VanHove_3D",
-      "path": "assets/VanHove_3D.png"
-    },
-    {
-      "basename": "equation",
-      "path": "templates/equation.md"
-    },
-    {
-      "basename": "Kramers Theorem",
-      "path": "conceptual_notes/Kramers Theorem.md"
-    },
-    {
-      "basename": "TRIM_2D_Square_Lattice",
-      "path": "assets/TRIM_2D_Square_Lattice.png"
-    },
-    {
-      "basename": "DMFT",
-      "path": "papers/DMFT.md"
     }
   ],
   "omittedPaths": [],

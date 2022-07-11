@@ -2,10 +2,7 @@
 ## A new class of bilayer kagome lattice compounds with Dirac nodal lines and pressure-induced superconductivity
 ==Journal Ref. Nature Communications 13, 2773(2022)==
 
-----
-
-
-Tags: #kagome #superconductivity
+---
 
 ### Keywords 
 [[Superconductivity]]

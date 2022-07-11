@@ -1,9 +1,7 @@
-## Optical activity as a test for dynamic chiral magnetic effect of Weyl semimetals 
-==Journal Ref. Phys. Rev. B 92, 161110(R)(2015)==
+>## Optical activity as a test for dynamic chiral magnetic effect of Weyl semimetals 
+>>==Journal Ref. Phys. Rev. B 92, 161110(R)(2015)==
 
-----
-
-Tags: #weyl_semimetal #chirality #magnetic_field #rotary_power
+---
 
 ### Keywords 
 - [[WSM with broken P symmetry]]
@@ -43,3 +41,5 @@ The Weyl excitations occur around the eight high symmetry points can be seen bel
 In addition, $\Gamma$ and M points act as the four right-handed Weyl points, while R and X points are the four left-handed Weyl points. In the vicinity of these points, quasiparticles possess linear dispersion and the Berry curvature acquires the characteristic form of a monopole (antimonopole)
 
 The spin-independent hopping term shifts the Weyl points in the energy space, and gives rise to the chiral chemical potential
+
+---

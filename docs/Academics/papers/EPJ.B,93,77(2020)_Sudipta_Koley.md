@@ -3,9 +3,6 @@
 
 ----
 
-
-Tags: #CDW #superconductivity 
-
 ### Keywords 
 - Charge density waves([[CDW]])
 - [[Superconductivity]]
@@ -69,3 +66,6 @@ Large spectral weight transfer and absence of phonon signatures at typical energ
 - The resistivity above the instabilities, tellingly, reflects this excitonic fluctuation with a linear behavior at high temperature until CDW or SC order sets in. 
 - Disorder brings in a new length scale in the problem and degrades CDW order by localizing charges and suppressing excitonic fluctuations.
 - Superconductivity is not affected by disorder, unless it is too strong. *This is primarily the reason why SC shows up at the expense of CDW as disorder increases.* This also implies that the *resistivity actually goes down with disorder initially (till disorder-induced charge localization comes into effect)* in the CDW state, seen in DMFT calculations. 
+
+---
+
