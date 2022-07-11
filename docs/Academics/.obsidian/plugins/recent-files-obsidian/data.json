@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Reciprocal lattice",
+      "path": "conceptual_notes/Reciprocal lattice.md"
+    },
+    {
+      "basename": "Behavior near CDW",
+      "path": "conceptual_notes/Behavior near CDW.md"
+    },
+    {
+      "basename": "DMFT",
+      "path": "conceptual_notes/DMFT.md"
+    },
+    {
       "basename": "EPJ.B,93,77(2020)_Sudipta_Koley",
       "path": "papers/EPJ.B,93,77(2020)_Sudipta_Koley.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "Paper_Template",
       "path": "templates/Paper_Template.md"
-    },
-    {
-      "basename": "Behavior near CDW",
-      "path": "conceptual_notes/Behavior near CDW.md"
     },
     {
       "basename": "Weyl points ISB",
@@ -191,14 +199,6 @@
     {
       "basename": "Rotational_DOF_diatomic",
       "path": "assets/Rotational_DOF_diatomic.png"
-    },
-    {
-      "basename": "Translation_DOF_diatomic",
-      "path": "assets/Translation_DOF_diatomic.png"
-    },
-    {
-      "basename": "Resistivity",
-      "path": "conceptual_notes/Resistivity.md"
     }
   ],
   "omittedPaths": [],

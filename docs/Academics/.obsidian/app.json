@@ -141,7 +141,9 @@
     "monoatomic",
     "wavevectors",
     "wavevector",
-    "wavevector"
+    "wavevector",
+    "Bravais",
+    "Bravais"
   ],
   "pdfExportSettings": {
     "pageSize": "A4",
