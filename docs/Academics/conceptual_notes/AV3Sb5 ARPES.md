@@ -51,12 +51,34 @@ Figure (h, i) shows a comparison of the ARPES intensity along a k cut indicated 
 Ref. [Electronic nature of charge density wave and electron-phonon coupling in kagome superconductor KV3Sb5 | Nature Communications](https://www.nature.com/articles/s41467-021-27946-6)
 
 !!! abstract
-	The Kagome superconductors $AV_3Sb_5$ (A = K, Rb, Cs) have received enormous attention due to their nontrivial topological electronic structure, anomalous physical properties and superconductivity. Unconventional charge density wave (CDW) has been detected in AV3Sb5. High-precision electronic structure determination is essential to understand its origin. Here we unveil electronic nature of the CDW phase in our high-resolution angle-resolved photoemission measurements on $KV_3Sb_5$. We have observed CDW-induced Fermi surface reconstruction and the associated band folding. The CDW-induced band splitting and the associated gap opening have been revealed at the boundary of the pristine and reconstructed Brillouin zones. The Fermi surface- and momentum-dependent CDW gap is measured and the strongly anisotropic CDW gap is observed for all the V-derived Fermi surface. In particular, we have observed signatures of the electron-phonon coupling in KV3Sb5. These results provide key insights in understanding the nature of the CDW state and its interplay with superconductivity in AV3Sb5 superconductors.
+	The Kagome superconductors $AV_3Sb_5$ (A = K, Rb, Cs) have received enormous attention due to their nontrivial topological electronic structure, anomalous physical properties and superconductivity. Unconventional charge density wave (CDW) has been detected in AV3Sb5. High-precision electronic structure determination is essential to understand its origin. Here we unveil electronic nature of the CDW phase in our high-resolution angle-resolved photoemission measurements on $KV_3Sb_5$. We have observed CDW-induced Fermi surface reconstruction and the associated band folding. The CDW-induced band splitting and the associated gap opening have been revealed at the boundary of the pristine and reconstructed Brillouin zones. The Fermi surface- and momentum-dependent CDW gap is measured and the strongly anisotropic CDW gap is observed for all the V-derived Fermi surface. In particular, we have observed signatures of the electron-phonon coupling in $KV_3Sb_5$. These results provide key insights in understanding the nature of the CDW state and its interplay with superconductivity in AV3Sb5 superconductors.
 
 ### Fermi Surface
 
+![[FS_reconstruction_Luo.png]]
+The CDW-related 2 × 2 lattice reconstruction generates electronic structure reconstruction.
 
+| ARPES : FS                | Reconstructed FS              |
+| ------------------------- | ----------------------------- |
+| ![[Luo_KV3Sb5_ARPES.png]] | ![[FS_reconstructed_Luo.png]] |
+|                           |                               |
 
+Four [[Fermi surface]](FS) sheets can be seen in the figure (left). FS topology is mainly composed of circular electron like pocket around $\bar{\Gamma}(\alpha)$. A large hexagon-shaped hole-like sheet centered around $\bar{\Gamma}(\beta)$, a triangular hole-like pocket around $\bar{K}(\gamma)$ and a triangular electron-like pocket around $\bar{K}(\delta)$. 
+
+Figure (right) shows the effect of the 2 × 2 lattice reconstruction on the Fermi surface as induced by one of the three wavevectors, $Q_1$. The reconstructed FS is produced by shifting the original lines by the wave vector $\pm Q_1$. Under the measurement geometry used, the observed folded bands are mainly from $\pm Q_1$, while those from $\pm Q_2$ and $\pm Q_3$ are rather weak. ==The electronic reconstruction is also directly evidenced in the measured band structure(see original paper fig. 2c), in which the band measured along  
+the $\Gamma - M$ direction coincides with the direction of Q1 wave vector.==
+
+### Signatures of Electron-Phonon coupling
+
+The [[CDW]] state was first proposed for a one-dimensional chain of atoms with an equal spacing a which is argued to be inherently unstable against the dimerized ground state. It usually involves one band with a half electron filling. This would open a CDW gap at the Fermi point $k_F$ = ±π/2a and produce a lattice reconstruction with a wavevector of π/a. Such a [[Fermi surface nesting]] picture is extended to real materials with higher dimensions, where the CDW state is realized because segments of the Fermi surface are nearly parallel, connected by a wavevector $Q_{CDW}$.
+
+The CDW transition typically involves electronic structure reconstruction and lattice distortion, in which the electron–phonon coupling plays an important role. The evidence of this [[Strong coupling approach to CDW]] has been observed in $KV_3Sb_5$. 
+
+| Bandstructure(BS)   | Zoomed BS  &  Self-Energy                 |
+| ------------------- | --------------------------- |
+| ![[BS_EPC_Luo.png]] | ![[EPC_BS_self_energy.png]]
+
+A kink in the dispersion can be observed in the above figure. The quantitative dispersion is obtained by fitting momentum distribution curves at different binding energies. Taking a linear line as an empirical bare band, the effective real part of the electron self-energy is shown in Fig. (h). It shows a peak at ~36 meV. The observed kink in the energy dispersion and the peak-dip-hump structure in EDCs (see paper) are reminiscent of those from the electron–boson coupling in simple metal and high-temperature superconductors. The phonon frequency of the vanadium vibrations in AV3Sb5 can reach up to ~36meV, that is consistent with the mode energy observed. Therefore, significant self energy effects in $KV_3Sb_5$ is observed. It can be interpreted in terms of electron–phonon coupling, which is present for all bands.
 
 ## ARPES study for CsV3Sb5
 Ref. [Phys. Rev. Lett. 125, 247002 (2020) – CsV3Sb5: A Z2 Topological Kagome Metal with a Superconducting Ground State](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.247002)

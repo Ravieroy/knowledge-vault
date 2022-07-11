@@ -138,7 +138,10 @@
     "integrand",
     "ohm-metre",
     "resistivities",
-    "monoatomic"
+    "monoatomic",
+    "wavevectors",
+    "wavevector",
+    "wavevector"
   ],
   "pdfExportSettings": {
     "pageSize": "A4",

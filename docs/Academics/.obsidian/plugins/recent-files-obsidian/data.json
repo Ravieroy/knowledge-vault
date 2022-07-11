@@ -5,6 +5,34 @@
       "path": "conceptual_notes/AV3Sb5 ARPES.md"
     },
     {
+      "basename": "EPC_BS_self_energy",
+      "path": "assets/EPC_BS_self_energy.png"
+    },
+    {
+      "basename": "BS_EPC_Luo",
+      "path": "assets/BS_EPC_Luo.png"
+    },
+    {
+      "basename": "Strong coupling approach to CDW",
+      "path": "conceptual_notes/Strong coupling approach to CDW.md"
+    },
+    {
+      "basename": "side_by_side",
+      "path": "templates/side_by_side.md"
+    },
+    {
+      "basename": "FS_reconstructed_Luo",
+      "path": "assets/FS_reconstructed_Luo.png"
+    },
+    {
+      "basename": "FS_reconstruction_Luo",
+      "path": "assets/FS_reconstruction_Luo.png"
+    },
+    {
+      "basename": "Luo_KV3Sb5_ARPES",
+      "path": "assets/Luo_KV3Sb5_ARPES.png"
+    },
+    {
       "basename": "ARPES",
       "path": "conceptual_notes/ARPES.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "DMFT",
       "path": "papers/DMFT.md"
-    },
-    {
-      "basename": "EPJ.B,93,77(2020)_Sudipta_Koley",
-      "path": "papers/EPJ.B,93,77(2020)_Sudipta_Koley.md"
-    },
-    {
-      "basename": "DFT",
-      "path": "conceptual_notes/DFT.md"
-    },
-    {
-      "basename": "DOS",
-      "path": "assets/DOS.png"
-    },
-    {
-      "basename": "Pauli exclusion principle",
-      "path": "conceptual_notes/Pauli exclusion principle.md"
-    },
-    {
-      "basename": "Pauli_exclusion_example_2",
-      "path": "assets/Pauli_exclusion_example_2.png"
-    },
-    {
-      "basename": "Pauli_exclusion_example",
-      "path": "assets/Pauli_exclusion_example.png"
-    },
-    {
-      "basename": "Pauli_Exclusion_Principle",
-      "path": "assets/Pauli_Exclusion_Principle.png"
     }
   ],
   "omittedPaths": [],
