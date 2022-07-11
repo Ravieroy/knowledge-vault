@@ -22,20 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "papers/PRB.92.161110_Pallab_Goswami.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "a5d92bb45c93846f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "templates/Paper_Template.md",
+            "file": "papers/EPJ.B,93,77(2020)_Sudipta_Koley.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -113,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "papers/PRB.92.161110_Pallab_Goswami.md",
+                "file": "papers/EPJ.B,93,77(2020)_Sudipta_Koley.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "papers/PRB.92.161110_Pallab_Goswami.md",
+                "file": "papers/EPJ.B,93,77(2020)_Sudipta_Koley.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "papers/PRB.92.161110_Pallab_Goswami.md"
+                "file": "papers/EPJ.B,93,77(2020)_Sudipta_Koley.md"
               }
             }
           },
@@ -208,12 +195,12 @@
   },
   "active": "ab1f4055e77f7239",
   "lastOpenFiles": [
+    "papers/EPJ.B,93,77(2020)_Sudipta_Koley.md",
+    "papers/Nat.Comm.13, 2773_M_Shi.md",
     "papers/PRB.92.161110_Pallab_Goswami.md",
     "templates/Paper_Template.md",
     "conceptual_notes/Behavior near CDW.md",
     "papers/Weyl points ISB.md",
-    "papers/Nat.Comm.13, 2773_M_Shi.md",
-    "papers/EPJ.B,93,77(2020)_Sudipta_Koley.md",
     "conceptual_notes/CDW.md",
     "conceptual_notes/Strong coupling approach to CDW.md",
     "conceptual_notes/Types of CDW.md",

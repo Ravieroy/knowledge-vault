@@ -1,8 +1,7 @@
-## Charge density wave and superconductivity in transition metal dichalcogenides
-==Journal Ref.  Eur. Phys. J. B (2020) 93: 77==
+>## Charge density wave and superconductivity in transition metal dichalcogenides
+>>==Journal Ref.  Eur. Phys. J. B (2020) 93: 77==
 
-----
-
+---
 ### Keywords 
 - Charge density waves([[CDW]])
 - [[Superconductivity]]
