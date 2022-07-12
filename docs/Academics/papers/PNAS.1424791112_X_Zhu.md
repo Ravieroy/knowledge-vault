@@ -1,4 +1,4 @@
->## # Classification of charge density waves based on their nature
+> ## Classification of charge density waves based on their nature
 >>Journal Ref. [pnas.1424791112](https://doi.org/10.1073/pnas.1424791112)
 --- 
 
