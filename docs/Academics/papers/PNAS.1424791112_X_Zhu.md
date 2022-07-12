@@ -3,7 +3,7 @@
 --- 
 
 ### Keywords 
-- [[CConsequently in the Peierls model there would be a transition from the metallic high-temperature state to the insulating-dimerized ground state at a critical temperature TCDW.DW]]
+- [[CDW]]
 - Strong Coupling
 - [[Fermi surface nesting]]
 

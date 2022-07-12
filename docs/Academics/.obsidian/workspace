@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "papers/PRB.92.161110_Pallab_Goswami.md",
+            "file": "papers/PNAS.1424791112_X_Zhu.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "papers/PRB.92.161110_Pallab_Goswami.md",
+                "file": "papers/PNAS.1424791112_X_Zhu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "papers/PRB.92.161110_Pallab_Goswami.md",
+                "file": "papers/PNAS.1424791112_X_Zhu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "papers/PRB.92.161110_Pallab_Goswami.md"
+                "file": "papers/PNAS.1424791112_X_Zhu.md"
               }
             }
           },
@@ -234,10 +234,10 @@
   },
   "active": "8bed21e7f4ab3512",
   "lastOpenFiles": [
+    "papers/PNAS.1424791112_X_Zhu.md",
     "papers/PRB.92.161110_Pallab_Goswami.md",
     "papers/EPJ.B,93,77(2020)_Sudipta_Koley.md",
     "papers/CConsequently in the Peierls model there would be a transition from the metallic high-temperature state to the insulating-dimerized ground state at a critical temperature TCDW.DW.md",
-    "papers/PNAS.1424791112_X_Zhu.md",
     "assets/EPC_matrix_element.png",
     "assets/order_param_resistivity_anomaly.png",
     "conceptual_notes/CDW.md",
