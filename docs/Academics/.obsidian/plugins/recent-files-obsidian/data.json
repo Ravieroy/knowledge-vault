@@ -1,6 +1,54 @@
 {
   "recentFiles": [
     {
+      "basename": "PNAS.1424791112_X_Zhu",
+      "path": "papers/PNAS.1424791112_X_Zhu.md"
+    },
+    {
+      "basename": "EPC_matrix_element",
+      "path": "assets/EPC_matrix_element.png"
+    },
+    {
+      "basename": "order_param_resistivity_anomaly",
+      "path": "assets/order_param_resistivity_anomaly.png"
+    },
+    {
+      "basename": "CDW",
+      "path": "conceptual_notes/CDW.md"
+    },
+    {
+      "basename": "Fermi surface nesting",
+      "path": "conceptual_notes/Fermi surface nesting.md"
+    },
+    {
+      "basename": "Strong coupling approach to CDW",
+      "path": "conceptual_notes/Strong coupling approach to CDW.md"
+    },
+    {
+      "basename": "FS_and_susceptibility_NbSe2",
+      "path": "assets/FS_and_susceptibility_NbSe2.png"
+    },
+    {
+      "basename": "Peierls Transition",
+      "path": "conceptual_notes/Peierls Transition.md"
+    },
+    {
+      "basename": "Lindhard_function",
+      "path": "assets/Lindhard_function.png"
+    },
+    {
+      "basename": "Kohn_anomaly",
+      "path": "assets/Kohn_anomaly.png"
+    },
+    {
+      "basename": "EPJ.B,93,77(2020)_Sudipta_Koley",
+      "path": "papers/EPJ.B,93,77(2020)_Sudipta_Koley.md"
+    },
+    {
+      "basename": "PRB.92.161110_Pallab_Goswami",
+      "path": "papers/PRB.92.161110_Pallab_Goswami.md"
+    },
+    {
       "basename": "Reciprocal lattice",
       "path": "conceptual_notes/Reciprocal lattice.md"
     },
@@ -13,16 +61,8 @@
       "path": "conceptual_notes/DMFT.md"
     },
     {
-      "basename": "EPJ.B,93,77(2020)_Sudipta_Koley",
-      "path": "papers/EPJ.B,93,77(2020)_Sudipta_Koley.md"
-    },
-    {
       "basename": "Nat.Comm.13, 2773_M_Shi",
       "path": "papers/Nat.Comm.13, 2773_M_Shi.md"
-    },
-    {
-      "basename": "PRB.92.161110_Pallab_Goswami",
-      "path": "papers/PRB.92.161110_Pallab_Goswami.md"
     },
     {
       "basename": "Paper_Template",
@@ -31,14 +71,6 @@
     {
       "basename": "Weyl points ISB",
       "path": "papers/Weyl points ISB.md"
-    },
-    {
-      "basename": "CDW",
-      "path": "conceptual_notes/CDW.md"
-    },
-    {
-      "basename": "Strong coupling approach to CDW",
-      "path": "conceptual_notes/Strong coupling approach to CDW.md"
     },
     {
       "basename": "Types of CDW",
@@ -167,38 +199,6 @@
     {
       "basename": "Degree of freedom",
       "path": "conceptual_notes/Degree of freedom.md"
-    },
-    {
-      "basename": "Accidental degeneracy",
-      "path": "conceptual_notes/Accidental degeneracy.md"
-    },
-    {
-      "basename": "Meissner_effect",
-      "path": "assets/Meissner_effect.png"
-    },
-    {
-      "basename": "Phase_Diagram",
-      "path": "assets/Phase_Diagram.png"
-    },
-    {
-      "basename": "Hysteresis",
-      "path": "assets/Hysteresis.png"
-    },
-    {
-      "basename": "Kagome Geometry",
-      "path": "conceptual_notes/Kagome Geometry.md"
-    },
-    {
-      "basename": "AV3Sb5 family",
-      "path": "conceptual_notes/AV3Sb5 family.md"
-    },
-    {
-      "basename": "Vibrational_DOF_diatomic",
-      "path": "assets/Vibrational_DOF_diatomic.png"
-    },
-    {
-      "basename": "Rotational_DOF_diatomic",
-      "path": "assets/Rotational_DOF_diatomic.png"
     }
   ],
   "omittedPaths": [],

@@ -1,6 +1,6 @@
 # Reciprocal lattice 
 ---
-A reciprocal lattice is regarded as a geometrical abstraction. It is essentially identical to a "wave vector" k-space.
+A reciprocal lattice is regarded as a geometrical abstraction. It is essentially identical to a ==wave vector== k-space.
 
 !!! note "Definition"
 	- The collection of all wave vectors that yield plane waves with a period of the Bravais lattice. ==Note: any R vector is a possible period of the Bravais lattice.==

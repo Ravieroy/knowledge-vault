@@ -143,7 +143,10 @@
     "wavevector",
     "wavevector",
     "Bravais",
-    "Bravais"
+    "Bravais",
+    "Lindhard",
+    "indhard ",
+    "linewidth"
   ],
   "pdfExportSettings": {
     "pageSize": "A4",

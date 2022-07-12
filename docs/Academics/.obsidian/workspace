@@ -9,7 +9,59 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "conceptual_notes/Reciprocal lattice.md",
+            "file": "papers/PNAS.1424791112_X_Zhu.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "aa254824a5732aa2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conceptual_notes/Peierls Transition.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "47f6debb95847460",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conceptual_notes/Fermi surface nesting.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "1d6cfbbf364cc3dd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conceptual_notes/CDW.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "1a2250f30e4d4fb3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conceptual_notes/Strong coupling approach to CDW.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -87,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conceptual_notes/Reciprocal lattice.md",
+                "file": "papers/PNAS.1424791112_X_Zhu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conceptual_notes/Reciprocal lattice.md",
+                "file": "papers/PNAS.1424791112_X_Zhu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conceptual_notes/Reciprocal lattice.md"
+                "file": "papers/PNAS.1424791112_X_Zhu.md"
               }
             }
           },
@@ -182,15 +234,15 @@
   },
   "active": "8bed21e7f4ab3512",
   "lastOpenFiles": [
-    "conceptual_notes/Reciprocal lattice.md",
-    "conceptual_notes/Behavior near CDW.md",
-    "conceptual_notes/DMFT.md",
-    "papers/EPJ.B,93,77(2020)_Sudipta_Koley.md",
-    "papers/Nat.Comm.13, 2773_M_Shi.md",
-    "papers/PRB.92.161110_Pallab_Goswami.md",
-    "templates/Paper_Template.md",
-    "papers/Weyl points ISB.md",
+    "papers/PNAS.1424791112_X_Zhu.md",
+    "assets/EPC_matrix_element.png",
+    "assets/order_param_resistivity_anomaly.png",
     "conceptual_notes/CDW.md",
-    "conceptual_notes/Strong coupling approach to CDW.md"
+    "conceptual_notes/Fermi surface nesting.md",
+    "conceptual_notes/Strong coupling approach to CDW.md",
+    "assets/FS_and_susceptibility_NbSe2.png",
+    "conceptual_notes/Peierls Transition.md",
+    "assets/Lindhard_function.png",
+    "assets/Kohn_anomaly.png"
   ]
 }

@@ -1,4 +1,7 @@
 # Charge Density Wave
+ ---
+ ## Introduction
+ 
  It is a periodic modulation of charge density, and an accompanying distortion of the crystal lattice ([[Peierls Transition]]). ***When a CDW forms, gaps open at the [[Fermi surface]] at those portions that satisfy the nesting condition.***
  
 ![[CDW.png]]
@@ -36,4 +39,19 @@ In other words, When we generalize to higher dimensions, the basic idea is that 
 ![[CDW_distortion.png]]
 *CDW or Peierls Distortion*
 
+### Kohn Anomaly
+
+![[Kohn_anomaly.png]]
+
+The zero energy electronic excitations at $2k_F$ effectively screen any lattice motion with this wave vector. The figure above shows the phonon dispersion for 1D chain at different temperatures. Below $T_{CDW}$ the phonon energy at $q = 2k_F$ becomes imaginary, meaning there is a new lattice structure. Above $T_{CDW}$ there is a sharp dip (Kohn anomaly) in the phonon dispersion but no static restructuring.
+
+## Experimental Methods to analyze CDW
+1. [[ARPES]] can determine the band structure and the Fermi contour that are needed to calculate the electronic susceptibility. 
+2. Electron, X-ray, neutron diffraction can determine the structure, $\vec{q}_{CDW}$ and $T_{CDW}$.
+3. Scanning tunneling microscopy ([[STM]]) and spectroscopy can determine the wavelength of the charge modulation as well as the electronic transition temperature. 
+4. Inelastic neutron and X-ray scattering can probe the temperature dependence of the Kohn anomaly in the phonon dispersion.
+5. Transport measurements can reveal the transition temperature and the metal insulator transition predicted by the Peierls model. 
+6. High-resolution ARPES data are needed to estimate the strength of the EPC in a CDW system. (phonon dispersion and linewidth measurements are very crucial to understand the origin of CDWs.)
+
+ 
 
