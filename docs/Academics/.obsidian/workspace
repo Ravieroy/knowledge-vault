@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "papers/PNAS.1424791112_X_Zhu.md",
+            "file": "papers/PRB.92.161110_Pallab_Goswami.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "papers/PNAS.1424791112_X_Zhu.md",
+                "file": "papers/PRB.92.161110_Pallab_Goswami.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "papers/PNAS.1424791112_X_Zhu.md",
+                "file": "papers/PRB.92.161110_Pallab_Goswami.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "papers/PNAS.1424791112_X_Zhu.md"
+                "file": "papers/PRB.92.161110_Pallab_Goswami.md"
               }
             }
           },
@@ -234,15 +234,15 @@
   },
   "active": "8bed21e7f4ab3512",
   "lastOpenFiles": [
+    "papers/PRB.92.161110_Pallab_Goswami.md",
+    "papers/EPJ.B,93,77(2020)_Sudipta_Koley.md",
+    "papers/CConsequently in the Peierls model there would be a transition from the metallic high-temperature state to the insulating-dimerized ground state at a critical temperature TCDW.DW.md",
     "papers/PNAS.1424791112_X_Zhu.md",
     "assets/EPC_matrix_element.png",
     "assets/order_param_resistivity_anomaly.png",
     "conceptual_notes/CDW.md",
     "conceptual_notes/Fermi surface nesting.md",
     "conceptual_notes/Strong coupling approach to CDW.md",
-    "assets/FS_and_susceptibility_NbSe2.png",
-    "conceptual_notes/Peierls Transition.md",
-    "assets/Lindhard_function.png",
-    "assets/Kohn_anomaly.png"
+    "assets/FS_and_susceptibility_NbSe2.png"
   ]
 }

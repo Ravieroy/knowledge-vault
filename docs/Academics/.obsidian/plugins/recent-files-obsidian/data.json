@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "PRB.92.161110_Pallab_Goswami",
+      "path": "papers/PRB.92.161110_Pallab_Goswami.md"
+    },
+    {
+      "basename": "EPJ.B,93,77(2020)_Sudipta_Koley",
+      "path": "papers/EPJ.B,93,77(2020)_Sudipta_Koley.md"
+    },
+    {
       "basename": "PNAS.1424791112_X_Zhu",
       "path": "papers/PNAS.1424791112_X_Zhu.md"
     },
@@ -39,14 +47,6 @@
     {
       "basename": "Kohn_anomaly",
       "path": "assets/Kohn_anomaly.png"
-    },
-    {
-      "basename": "EPJ.B,93,77(2020)_Sudipta_Koley",
-      "path": "papers/EPJ.B,93,77(2020)_Sudipta_Koley.md"
-    },
-    {
-      "basename": "PRB.92.161110_Pallab_Goswami",
-      "path": "papers/PRB.92.161110_Pallab_Goswami.md"
     },
     {
       "basename": "Reciprocal lattice",
@@ -195,10 +195,6 @@
     {
       "basename": "Van-Hove singularity",
       "path": "conceptual_notes/Van-Hove singularity.md"
-    },
-    {
-      "basename": "Degree of freedom",
-      "path": "conceptual_notes/Degree of freedom.md"
     }
   ],
   "omittedPaths": [],
