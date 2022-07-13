@@ -5,12 +5,12 @@
       "path": "conceptual_notes/Strong coupling approach to CDW.md"
     },
     {
-      "basename": "PNAS.1424791112_X_Zhu",
-      "path": "papers/PNAS.1424791112_X_Zhu.md"
-    },
-    {
       "basename": "Peierls Transition",
       "path": "conceptual_notes/Peierls Transition.md"
+    },
+    {
+      "basename": "PNAS.1424791112_X_Zhu",
+      "path": "papers/PNAS.1424791112_X_Zhu.md"
     },
     {
       "basename": "Fermi surface nesting",

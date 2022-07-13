@@ -2,9 +2,7 @@
 
 !!! quote
 	This (Peierls) instability came to me as a complete surprise when I was tidying material for my book (1955), and it took me a considerable time to convince myself that the argument was sound. It seemed of only academic significance, however, since there are no strictly one-dimensional systems in nature. I therefore did not think it worth publishing the argument, beyond a brief remark in the book, which did not even mention the logarithmic behavior.
-	*Peierls RE (1991) More Surprises in Theoretical Physics (Princeton Univ Press, Princeton), p 29.*
-
----
+	^^*Peierls RE (1991) More Surprises in Theoretical Physics (Princeton Univ Press, Princeton), p 29.*^^
 ## Motivation
 The traditional approach to explaining [[CDW]] involves the [[Fermi surface nesting]] which originally was formulated for 1D systems where [[Peierls Transition]] created a fundamental instability. The conjecture was that the gain in electronic energy would always overwhelm the cost of restructuring the atoms. The phonon dispersion for a 1D chain showed[[CDW#Kohn Anomaly | Kohn anomaly]] below and equal to the transition temperature $T_{CDW}$. 
 

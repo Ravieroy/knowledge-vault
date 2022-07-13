@@ -28,6 +28,19 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "a5fa5af0abf7460e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conceptual_notes/Peierls Transition.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -196,8 +209,8 @@
   "active": "1a2250f30e4d4fb3",
   "lastOpenFiles": [
     "conceptual_notes/Strong coupling approach to CDW.md",
-    "papers/PNAS.1424791112_X_Zhu.md",
     "conceptual_notes/Peierls Transition.md",
+    "papers/PNAS.1424791112_X_Zhu.md",
     "conceptual_notes/Fermi surface nesting.md",
     "conceptual_notes/CDW.md",
     "assets/Re_Img_from_ARPES_cuprates.png",
