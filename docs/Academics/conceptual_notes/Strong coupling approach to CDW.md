@@ -20,24 +20,24 @@ The standard practice to[[Peierls Transition#Extending Peierls picture to 2D and
 	One may argue that both FSN and EPC are forms of electron–lattice interaction, involving excitations of electrons from filled to empty states. However, they should be distinguished because FSN involves elastic scattering, whereas EPC involves inelastic scattering from the lattice.
 
 Density functional theory calculations were performed for a 1D chain of Na atoms, which should be the best representation of a perfect Peierls system. With the atoms clamped there was no sign of an electronic-only density wave, and relaxation of the ion position in the 1D chain failed to produce any distortion, i.e., no Peierls distortion.
-However, if the ions were allowed to move in 2D, the lowest energy state was a zigzag chain, but the electronic gap anticipated in the Peierls CDW phase was missing .
+However, if the ions were allowed to move in 2D, the lowest energy state was a zigzag chain, but the electronic gap anticipated in the Peierls CDW phase was missing.
 
+!!! question "How do we know if EPC is strong enough to drive the charge ordering?"
+	YBCO could be an apt example to answer this question. Recent phonon measurements (See[[Strong coupling approach to CDW#References | References]]) show signatures of strong EPC in the low-temperature (below 150 K) charge-ordering phase of YBCO. However, the role of EPC in YBCO is substantially different from the role in $NbSe_2$ due to two aspects: 
+	1. No phonon softening was observed above 150 K ($T_{CDW}$) and
+	2. The energy of the soft phonon modes never approaches zero. 
+	 Thus, EPC is not strong enough in cuprates to drive the formation of the CO or CDW phase.
 
-
-
-
-
-
-
-
-
-
+## What is EPC mechanism? 
 
  The strong- coupling approach views the CDW as a condensate out of a pre-formed excitonic liquid of bad metals. The unconventional CDW found in the parent dichalcogenide is a bose-condensate of pre-formed excitons from high temperature. 
 
 ---
-## Useful References 
+## References 
 1. [Classification of charge density waves based on their nature | PNAS](https://www.pnas.org/doi/10.1073/pnas.1424791112)
 2. [[PNAS.1424791112_X_Zhu | Summary of above(PNAS) paper]]
 3. [Phys. Rev. B 73, 205102 (2006)—Fermi-surface nesting and the origin of the charge-density wave in NbSe2](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.73.205102)
+4. [Inelastic X-ray scattering in YBa<SUB>2</SUB>Cu<SUB>3</SUB>O<SUB>6.6</SUB> reveals giant phonon anomalies and elastic central peak due to charge-density-wave formation—NASA/ADS](https://ui.adsabs.harvard.edu/abs/2014NatPh..10...52L/abstract)
+
+
 

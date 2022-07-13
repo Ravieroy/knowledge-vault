@@ -17,45 +17,6 @@
         }
       },
       {
-        "id": "aa254824a5732aa2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conceptual_notes/Peierls Transition.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "47f6debb95847460",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conceptual_notes/Fermi surface nesting.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "1d6cfbbf364cc3dd",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conceptual_notes/CDW.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
-        }
-      },
-      {
         "id": "1a2250f30e4d4fb3",
         "type": "leaf",
         "state": {
@@ -139,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "papers/PNAS.1424791112_X_Zhu.md",
+                "file": "conceptual_notes/Strong coupling approach to CDW.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "papers/PNAS.1424791112_X_Zhu.md",
+                "file": "conceptual_notes/Strong coupling approach to CDW.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "papers/PNAS.1424791112_X_Zhu.md"
+                "file": "conceptual_notes/Strong coupling approach to CDW.md"
               }
             }
           },
@@ -232,17 +193,17 @@
     "direction": "horizontal",
     "width": 373
   },
-  "active": "8bed21e7f4ab3512",
+  "active": "1a2250f30e4d4fb3",
   "lastOpenFiles": [
+    "conceptual_notes/Strong coupling approach to CDW.md",
     "papers/PNAS.1424791112_X_Zhu.md",
+    "conceptual_notes/Peierls Transition.md",
+    "conceptual_notes/Fermi surface nesting.md",
+    "conceptual_notes/CDW.md",
+    "assets/Re_Img_from_ARPES_cuprates.png",
     "papers/PRB.92.161110_Pallab_Goswami.md",
     "papers/EPJ.B,93,77(2020)_Sudipta_Koley.md",
     "papers/CConsequently in the Peierls model there would be a transition from the metallic high-temperature state to the insulating-dimerized ground state at a critical temperature TCDW.DW.md",
-    "assets/EPC_matrix_element.png",
-    "assets/order_param_resistivity_anomaly.png",
-    "conceptual_notes/CDW.md",
-    "conceptual_notes/Fermi surface nesting.md",
-    "conceptual_notes/Strong coupling approach to CDW.md",
-    "assets/FS_and_susceptibility_NbSe2.png"
+    "assets/EPC_matrix_element.png"
   ]
 }

@@ -16,9 +16,9 @@ $$
 \end{equation}
 $$
 
-, where $\rho_0$ is the unperturbed electron density of the metal, and the condensate is called Charge density wave.
+Where $\rho_0$ is the unperturbed electron density of the metal, and the condensate is called a Charge density wave.
 
-Similar to superconductors, the order parameter is complex and the phase $\phi$ of the condensate is very important. It's time and spatial derivative is related to the electric current and to the condensate density.  *In the absence of pinning and damping, the condensate can carry current leading to [[Superconductivity]]*. The thermodynamics of CDW state closely resembles that of Superconducting ground state. The gap $\Delta$ in terms of the dimensionless e-p coupling constant is given by 
+Similar to superconductors, the order parameter is complex and the phase $\phi$ of the condensate is very important. It's time and spatial derivative is related to the electric current and to the condensate density.  *In the absence of pinning and damping, the condensate can carry current leading to [[Superconductivity]]*. The thermodynamics of CDW state closely resembles that of Superconducting ground state. The gap $\Delta$ in terms of the dimensionless e-p coupling constant is given by,
 
 $$
 \begin{equation}
@@ -26,7 +26,7 @@ $$
 \end{equation}
 $$
 
-, Where D is the one-dimensional bandwidth.
+ Where D is the one-dimensional bandwidth.
 
  The collective mode is formed by e-h pairs, involving the wave-vector $2k_F$ as electron and holes on the opposite side of the [[Fermi surface]] are combined to lead to the CDW and to the accompanying lattice distortion. 
  
@@ -53,5 +53,9 @@ The zero energy electronic excitations at $2k_F$ effectively screen any lattice 
 5. Transport measurements can reveal the transition temperature and the metal insulator transition predicted by the Peierls model. 
 6. High-resolution ARPES data are needed to estimate the strength of the EPC in a CDW system. (phonon dispersion and linewidth measurements are very crucial to understand the origin of CDWs.)
 
- 
+--- 
+## Useful Links 
+1. [[PNAS.1424791112_X_Zhu |Classification of charge density waves based on their nature]]
+2. [[PNAS.1424791112_X_Zhu#Classification of CDW |Classification of CDW]]
+3. [[Strong coupling approach to CDW]]
 

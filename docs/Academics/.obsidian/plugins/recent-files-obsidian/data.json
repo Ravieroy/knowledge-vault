@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Strong coupling approach to CDW",
+      "path": "conceptual_notes/Strong coupling approach to CDW.md"
+    },
+    {
       "basename": "PNAS.1424791112_X_Zhu",
       "path": "papers/PNAS.1424791112_X_Zhu.md"
+    },
+    {
+      "basename": "Peierls Transition",
+      "path": "conceptual_notes/Peierls Transition.md"
+    },
+    {
+      "basename": "Fermi surface nesting",
+      "path": "conceptual_notes/Fermi surface nesting.md"
+    },
+    {
+      "basename": "CDW",
+      "path": "conceptual_notes/CDW.md"
+    },
+    {
+      "basename": "Re_Img_from_ARPES_cuprates",
+      "path": "assets/Re_Img_from_ARPES_cuprates.png"
     },
     {
       "basename": "PRB.92.161110_Pallab_Goswami",
@@ -21,24 +41,8 @@
       "path": "assets/order_param_resistivity_anomaly.png"
     },
     {
-      "basename": "CDW",
-      "path": "conceptual_notes/CDW.md"
-    },
-    {
-      "basename": "Fermi surface nesting",
-      "path": "conceptual_notes/Fermi surface nesting.md"
-    },
-    {
-      "basename": "Strong coupling approach to CDW",
-      "path": "conceptual_notes/Strong coupling approach to CDW.md"
-    },
-    {
       "basename": "FS_and_susceptibility_NbSe2",
       "path": "assets/FS_and_susceptibility_NbSe2.png"
-    },
-    {
-      "basename": "Peierls Transition",
-      "path": "conceptual_notes/Peierls Transition.md"
     },
     {
       "basename": "Lindhard_function",

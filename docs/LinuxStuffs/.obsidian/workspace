@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "TODOS/Synaptic.md",
+            "file": "Command line tools.md",
             "mode": "source",
             "source": false
           }
@@ -74,7 +74,6 @@
       {
         "id": "394c7af9dfd66a76",
         "type": "tabs",
-        "dimension": 52.760736196319016,
         "children": [
           {
             "id": "3060f9940c0668b8",
@@ -82,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODOS/Synaptic.md",
+                "file": "Command line tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODOS/Synaptic.md"
+                "file": "Command line tools.md"
               }
             }
           },
@@ -128,25 +127,6 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "a779dd85f511eea1",
-        "type": "tabs",
-        "dimension": 47.239263803680984,
-        "children": [
-          {
-            "id": "3afcbda8d692c780",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "TODOS/Synaptic.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -154,6 +134,7 @@
   },
   "active": "13296daf98636af9",
   "lastOpenFiles": [
+    "Command line tools.md",
     "TODOS/Synaptic.md",
     "OpenOffice_LibreOffice.md",
     "Manage user profiles.md",
@@ -162,7 +143,6 @@
     "Custom ROM in Mi A2.md",
     "Flatpak.md",
     "Hide native tab bar in Firefox.md",
-    "assets/manage_user_1.png",
-    "assets/manage_user_2.png"
+    "assets/manage_user_1.png"
   ]
 }
